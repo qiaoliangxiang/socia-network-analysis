@@ -46,7 +46,7 @@ class HTML(object):
     
         self.year = year
         self.month = month
-        self.file_path = path.join(folder, '{y}{m}.html'.format(y=year, m=month))
+        self.file_path = path.join(folder, '{y}{m:02}.html'.format(y=year, m=month))
         self.html = ''
         
     def fetch(self):
@@ -151,7 +151,7 @@ class XML(object):
         
         self.year = year
         self.month = month
-        self.file_path = path.join(folder, '{y}{m}.xml'.format(y=year, m=month))
+        self.file_path = path.join(folder, '{y}{m:02}.xml'.format(y=year, m=month))
         self.tree = None
         
     def put(self, papers):
