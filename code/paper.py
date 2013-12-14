@@ -154,8 +154,8 @@ class XML(object):
         self.file_path = path.join(folder, '{y}{m}.xml'.format(y=year, m=month))
         self.tree = None
         
-    def set(self, papers):
-        'Sets the papers.'
+    def put(self, papers):
+        'Puts the papers.'
         assert(type(papers) == list)
         
         self.tree = None # clear it
@@ -187,8 +187,28 @@ class XML(object):
 
         self.tree = ET.ElementTree(root)
     
+    def _indent(self, elem, level=0):
+        '''Adds white spaces to a tree so that it can be pretty printed. 
+        
+        http://effbot.org/zone/element-lib.htm#prettyprint.
+        '''
+        i = "\n" + level*"  "
+        if len(elem):
+            if not elem.text or not elem.text.strip():
+                elem.text = i + "  "
+            if not elem.tail or not elem.tail.strip():
+                elem.tail = i
+            for elem in elem:
+                self._indent(elem, level+1)
+            if not elem.tail or not elem.tail.strip():
+                elem.tail = i
+        else:
+            if level and (not elem.tail or not elem.tail.strip()):
+                elem.tail = i
+                
     def save(self):
         'Saves data to the XML file.'
+        self._indent(self.tree.getroot())
         self.tree.write(self.file_path, xml_declaration=True, encoding='utf-8')
             
     def load(self):
@@ -203,8 +223,8 @@ class XML(object):
         for p in root:
             paper = Paper()
         
-            paper.year = int(p.get('year'))
-            paper.month = int(p.get('month'))
+            paper.year = int(p.get('year').strip())
+            paper.month = int(p.get('month').strip())
             paper.url = p.get('url').strip()
             paper.title = p.find('title').text.strip()
             paper.authors = [e.text.strip() for e in p.findall('authors/author')]
@@ -219,26 +239,30 @@ class XML(object):
 
 def example_create_html_xml_files():
 
+    folder = path.join('..','data')
+    
     # save to a HTML file 
-    html = HTML(1993,1)
+    html = HTML(1993, 1, folder)
     html.fetch()
     html.save()
     
     # save to an XML file    
-    xml = XML(1993,1)
-    xml.set(html.get())
+    xml = XML(1993, 1, folder)
+    xml.put(html.get())
     xml.save()
 
 def example_read_from_files():
     
+    folder = path.join('..','data')
+     
     # read HTML file
-    html = HTML(1993,1)
+    html = HTML(1993, 1, folder)
     html.load()
     papers = html.get()
     print(papers[0])
     
     # read XML file    
-    xml = XML(1993,1)
+    xml = XML(1993, 1, folder)
     xml.load()
     papers = xml.get()
     print(papers[0])
