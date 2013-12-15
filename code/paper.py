@@ -28,6 +28,11 @@ class Paper(object):
         self.title = '' 
         self.authors = []
         self.subjects = []
+    
+    def key(self):
+        'Returns a unique identifier of this paper.'
+        return '{t}:{a}'.format(t=self.title.lower(), 
+                                a=str(set(self.authors)).lower())
         
     def __str__(self):
         return '\nyear: {y} \nmonth: {m} \nurl: {u} \ntitle: {t}\
@@ -186,6 +191,7 @@ class XML(object):
                 se.text = subject
 
         self.tree = ET.ElementTree(root)
+        return self
     
     def _indent(self, elem, level=0):
         '''Adds white spaces to a tree so that it can be pretty printed. 
@@ -210,10 +216,12 @@ class XML(object):
         'Saves data to the XML file.'
         self._indent(self.tree.getroot())
         self.tree.write(self.file_path, xml_declaration=True, encoding='utf-8')
+        return self
             
     def load(self):
         'Loads data from the XML file.'    
         self.tree = ET.parse(self.file_path)
+        return self
         
     def get(self):
         root = self.tree.getroot()
@@ -236,37 +244,3 @@ class XML(object):
 
     def __str__(self):
         return ET.tostring(self.tree.getroot())
-
-def example_create_html_xml_files():
-
-    folder = path.join('..','data')
-    
-    # save to a HTML file 
-    html = HTML(1993, 1, folder)
-    html.fetch()
-    html.save()
-    
-    # save to an XML file    
-    xml = XML(1993, 1, folder)
-    xml.put(html.get())
-    xml.save()
-
-def example_read_from_files():
-    
-    folder = path.join('..','data')
-     
-    # read HTML file
-    html = HTML(1993, 1, folder)
-    html.load()
-    papers = html.get()
-    print(papers[0])
-    
-    # read XML file    
-    xml = XML(1993, 1, folder)
-    xml.load()
-    papers = xml.get()
-    print(papers[0])
-                
-if __name__ == '__main__':
-    example_create_html_xml_files()
-    example_read_from_files()
