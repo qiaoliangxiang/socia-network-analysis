@@ -1,15 +1,12 @@
 socia-network-analysis
 ======================
 
-Social Network Analysis
+Analysis of the ArXiv General Relativity and Quantum Cosmology Collaboration Network
 ======================
 This is the peer-evaluation programming project of the Coursera [Social Network Analysis class](https://www.coursera.org/course/sna).
 
-The dataset was crawled and processed using Python. 
+The dataset was crawled, processed, and generated using Python. 
 The analysis was performed using R.
-
-More code and datasets will be uploaded later.
-
 
 Introduction
 ============
