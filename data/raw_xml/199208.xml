@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<papers count="23">
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208001" year="1992">
+    <title>The Interpretation of Quantum Cosmological Models</title>
+    <authors count="1">
+      <author>Jonathan J. Halliwell</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208002" year="1992">
+    <title>Thermodynamics of Two-Dimensional Black-Holes</title>
+    <authors count="2">
+      <author>Chiara R. Nappi</author>
+      <author>Andrea Pasquinucci</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208003" year="1992">
+    <title>Generation of seed perturbations from Quantum Cosmology</title>
+    <authors count="1">
+      <author>Tarun Souradeep</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208004" year="1992">
+    <title>The $D\to 2$ Limit of General Relativity</title>
+    <authors count="2">
+      <author>R.B. Mann</author>
+      <author>S.F. Ross</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208005" year="1992">
+    <title>Nonlinear Noise in Cosmology</title>
+    <authors count="2">
+      <author>Salman Habib</author>
+      <author>Henry E. Kandrup</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208006" year="1992">
+    <title>Stochastic Inflation:The Quantum Phase Space Approach</title>
+    <authors count="1">
+      <author>Salman Habib</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208007" year="1992">
+    <title>There is no $R^3 X S^1$ vacuum gravitational instanton</title>
+    <authors count="2">
+      <author>Niall Ó Murchadha</author>
+      <author>Hugh Shanahan</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208008" year="1992">
+    <title>Trapped surfaces and spherical closed cosmologies</title>
+    <authors count="2">
+      <author>Edward Malec</author>
+      <author>Niall Ó Murchadha</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208009" year="1992">
+    <title>The Entropy of the Gravitational Field</title>
+    <authors count="3">
+      <author>R. Brandenberger</author>
+      <author>T.Prokopec</author>
+      <author>V. Mukhanov</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208010" year="1992">
+    <title>Massive Analogue of Ashtekar-CJD Action</title>
+    <authors count="2">
+      <author>K.Kamimura</author>
+      <author>T.Fukuyama</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/gr-qc/9208011" year="1992">
+    <title>Comparison of the Sachs-Wolfe Effect for Gaussian and Non-Gaussian  Fluctuations</title>
+    <authors count="1">
+      <author>Jong H. Kung</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/astro-ph/9208005" year="1992">
+    <title>The Last Three Minutes: Issues in Gravitational Wave Measurements of  Coalescing Compact Binaries</title>
+    <authors count="11">
+      <author>Curt Cutler</author>
+      <author>Theocharis A. Apostolatos</author>
+      <author>Lars Bildsten</author>
+      <author>Lee Samuel Finn</author>
+      <author>Eanna E. Flanagan</author>
+      <author>Daniel Kennefick</author>
+      <author>Dragoljubov M. Markovic</author>
+      <author>Amos Ori</author>
+      <author>Eric Poisson</author>
+      <author>Gerald Jay Sussman</author>
+      <author>Kip S. Thorne</author>
+    </authors>
+    <subjects count="2">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/astro-ph/9208006" year="1992">
+    <title>Binary Black Holes in Stationary Orbits</title>
+    <authors count="1">
+      <author>Sandip K. Chakrabarti</author>
+    </authors>
+    <subjects count="2">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/astro-ph/9208007" year="1992">
+    <title>COBE, Gravitational Waves, Inflation and Extended Inflation</title>
+    <authors count="2">
+      <author>David H Lyth</author>
+      <author>Andrew R Liddle</author>
+    </authors>
+    <subjects count="3">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-ph/9208212" year="1992">
+    <title>Black Holes from Nucleating Strings</title>
+    <authors count="2">
+      <author>Jaume Garriga</author>
+      <author>Alexander Vilenkin</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-ph/9208219" year="1992">
+    <title>Quantum effects near a point mass in 2+1 dimensional gravity</title>
+    <authors count="2">
+      <author>Tarun Souradeep</author>
+      <author>Varun Sahni</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-ph/9208231" year="1992">
+    <title>Critical Behavior in the Electroweak Phase Transition</title>
+    <authors count="2">
+      <author>Marcelo Gleiser</author>
+      <author>Edward W. Kolb</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208009" year="1992">
+    <title>A Geometrical Approach to Time-Dependent Gauge-Fixing</title>
+    <authors count="2">
+      <author>Jonathan M. Evans</author>
+      <author>Philip A. Tuckey</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208015" year="1992">
+    <title>One-loop Vilkovisky-DeWitt Counterterms for 2D Gravity plus Scalar Field  Theory</title>
+    <authors count="2">
+      <author>R. Kantowski</author>
+      <author>Caren Marzban</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208018" year="1992">
+    <title>Gravity Theories with Lightlike Sources in D=3</title>
+    <authors count="2">
+      <author>S. Deser</author>
+      <author>A. Steif</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208034" year="1992">
+    <title>Einstein Gravity in 2+1 Dimensions from a Gauge Model with Symmetry  Breaking</title>
+    <authors count="3">
+      <author>R. Brooks</author>
+      <author>D. Cangemi</author>
+      <author>M. Crescimanno</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208036" year="1992">
+    <title>Gravitationally Collapsing Dust in $(2+1)$ Dimensions</title>
+    <authors count="2">
+      <author>S.F. Ross</author>
+      <author>R.B. Mann</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="8" url="http://arxiv.org//abs/hep-th/9208060" year="1992">
+    <title>Naked Singularities as Possible Candidates for Gamma-ray Bursters</title>
+    <authors count="2">
+      <author>Sandip K. Chakrabarti</author>
+      <author>Pankaj S. Joshi</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+</papers>
