@@ -1,0 +1,923 @@
+<?xml version='1.0' encoding='utf-8'?>
+<papers count="85">
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604001" year="1996">
+    <title>An introduction to the Einstein-Vlasov system</title>
+    <authors count="1">
+      <author>alan d. rendall</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604002" year="1996">
+    <title>Normal modes for metric fluctuations in a class of higher-dimensional  backgrounds</title>
+    <authors count="2">
+      <author>m. gasperini</author>
+      <author>m. giovannini</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604003" year="1996">
+    <title>1+1 Sector of 3+1 Gravity</title>
+    <authors count="1">
+      <author>ted jacobson</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604004" year="1996">
+    <title>Vacuum Energy Estimates in Quantum Gravity and the Wheeler-DeWitt  Equation</title>
+    <authors count="1">
+      <author>remo garattini</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604005" year="1996">
+    <title>Making Anti-de Sitter Black Holes</title>
+    <authors count="4">
+      <author>stefan aminneborg</author>
+      <author>ingemar bengtsson</author>
+      <author>soren holst</author>
+      <author>peter peldan</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604006" year="1996">
+    <title>Scalar Perturbations and Conformal Transformation</title>
+    <authors count="2">
+      <author>julio c. fabris</author>
+      <author>joel tossa</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604007" year="1996">
+    <title>Gravitational vacuum polarization I: Energy conditions in the  Hartle--Hawking vacuum</title>
+    <authors count="1">
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604008" year="1996">
+    <title>Gravitational vacuum polarization II: Energy conditions in the Boulware  vacuum</title>
+    <authors count="1">
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604009" year="1996">
+    <title>Gravitational vacuum polarization III: Energy conditions in the (1+1)  Schwarzschild spacetime</title>
+    <authors count="1">
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604010" year="1996">
+    <title>Moduli-space structure of knots with intersections</title>
+    <authors count="2">
+      <author>norbert grot</author>
+      <author>carlo rovelli</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604011" year="1996">
+    <title>The Born-Oppenheimer Approach to the Matter-Gravity System and Unitarity</title>
+    <authors count="3">
+      <author>c. bertoni</author>
+      <author>f. finelli</author>
+      <author>g. venturi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604012" year="1996">
+    <title>Consistent Sets Yield Contrary Inferences in Quantum Theory</title>
+    <authors count="1">
+      <author>adrian kent</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Condensed Matter (cond-mat)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604013" year="1996">
+    <title>Locally Anisotropic Gravity and Strings</title>
+    <authors count="1">
+      <author>sergiu i. vacaru</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604014" year="1996">
+    <title>Stochastic Processes and Diffusion on Spaces with Local Anisotropy</title>
+    <authors count="1">
+      <author>sergiu i. vacaru</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604015" year="1996">
+    <title>Spinors in Higher Dimensional and Locally Anisotropic Spaces</title>
+    <authors count="1">
+      <author>sergiu i. vacaru</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604016" year="1996">
+    <title>Nonlinear Connections in Superbundles and Locally Anisotropic  Supergravity</title>
+    <authors count="1">
+      <author>sergiu i. vacaru</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604017" year="1996">
+    <title>Nearly Autoparallel Maps, Tensor Integral and Conservation Laws in  Locally Anisotrpoic Spaces</title>
+    <authors count="1">
+      <author>sergiu i. vacaru</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604018" year="1996">
+    <title>Tensor-Tensor Theory of Gravitation</title>
+    <authors count="1">
+      <author>merab gogberashvili</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604019" year="1996">
+    <title>Understanding critical collapse of a scalar field</title>
+    <authors count="1">
+      <author>carsten gundlach</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604020" year="1996">
+    <title>Chaos in Schwarzschild Spacetime : The Motion of a Spinning Particle</title>
+    <authors count="2">
+      <author>shingo suzuki</author>
+      <author>kei ichi maeda</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604021" year="1996">
+    <title>Conformally dressed black hole in 2+1 dimensions</title>
+    <authors count="2">
+      <author>cristian martinez</author>
+      <author>jorge zanelli</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604022" year="1996">
+    <title>A New Theory of Stochastic Inflation</title>
+    <authors count="1">
+      <author>andrew matacz</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604023" year="1996">
+    <title>Cosmological Application of the New General Relativity</title>
+    <authors count="3">
+      <author>f.i. mikhail</author>
+      <author>m.i. wanas</author>
+      <author>g.g.l. nashed</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604024" year="1996">
+    <title>Integral Equations of Fields on the Rotating Black Hole</title>
+    <authors count="2">
+      <author>takahiro masuda</author>
+      <author>hisao suzuki</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604025" year="1996">
+    <title>Supersymmetric Quantum Cosmology --- Shaken not stirred</title>
+    <authors count="1">
+      <author>p.v. moniz</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604026" year="1996">
+    <title>Testing Theories of Gravity with a Spherical Gravitational Wave Detector</title>
+    <authors count="5">
+      <author>m. bianchi</author>
+      <author>e. coccia</author>
+      <author>c.n. colacino</author>
+      <author>v. fafone</author>
+      <author>f. fucito</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604027" year="1996">
+    <title>An exact solution of the metric-affine gauge theory with dilation,  shear, and spin charges</title>
+    <authors count="5">
+      <author>yu.n. obukhov</author>
+      <author>e.j. vlachynsky</author>
+      <author>w. esser</author>
+      <author>r. tresguerres</author>
+      <author>f.w. hehl</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604028" year="1996">
+    <title>Spherically Symmetric Perturbation of Ultrarelativistic Fluid in  Homogeneous and Isotropic Universe</title>
+    <authors count="2">
+      <author>yu. ignatev</author>
+      <author>a. popov</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604029" year="1996">
+    <title>Spectral methods in general relativity -- toward the simulation of  3D-gravitational collapse of neutron stars</title>
+    <authors count="4">
+      <author>s. bonazzola</author>
+      <author>j. frieben</author>
+      <author>e. gourgoulhon</author>
+      <author>j. a. marck</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604030" year="1996">
+    <title>Monopole-Bubble in Early Universe</title>
+    <authors count="3">
+      <author>yoonbai kim</author>
+      <author>kei ichi maeda</author>
+      <author>nobuyuki sakai</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604031" year="1996">
+    <title>On compatibility of the Kaluza-Klein approach with the COBE experiment</title>
+    <authors count="2">
+      <author>yuri kubyshin</author>
+      <author>jerome martin</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604032" year="1996">
+    <title>Chaotic scattering around black holes</title>
+    <authors count="1">
+      <author>juan m. aguirregabiria</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604033" year="1996">
+    <title>The stochastic gravity-wave background: sources and detection</title>
+    <authors count="1">
+      <author>bruce allen</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604034" year="1996">
+    <title>The Mathematical Structure of Superspace as a Consequence of Time  Asymmetry</title>
+    <authors count="1">
+      <author>mario castagnino</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604035" year="1996">
+    <title>An axially symmetric solution of metric-affine gravity</title>
+    <authors count="4">
+      <author>e.j. vlachynsky</author>
+      <author>r. tresguerres</author>
+      <author>yu.n. obukhov</author>
+      <author>f.w. hehl</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604036" year="1996">
+    <title>Tunneling of Macroscopic Universes</title>
+    <authors count="1">
+      <author>heinz dieter conradi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604037" year="1996">
+    <title>Chaos around a Hénon-Heiles-inspired exact perturbation of a black hole</title>
+    <authors count="2">
+      <author>werner m. vieira</author>
+      <author>patricio s. letelier</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Chaotic Dynamics (nlin.CD)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604038" year="1996">
+    <title>A Negative Mode About Euclidean Wormhole</title>
+    <authors count="2">
+      <author>v.a. rubakov</author>
+      <author>o.yu. shvedov</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604039" year="1996">
+    <title>Non-Riemannian Gravity and the Einstein-Proca System</title>
+    <authors count="5">
+      <author>t dereli</author>
+      <author>m onder</author>
+      <author>j schray</author>
+      <author>r w tucker</author>
+      <author>c wang</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604040" year="1996">
+    <title>Killing Initial Data</title>
+    <authors count="2">
+      <author>r.beig</author>
+      <author>piotr t. chrusciel</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604041" year="1996">
+    <title>General-relativistic Model of Magnetically Driven Jet</title>
+    <authors count="2">
+      <author>a. d. rogava</author>
+      <author>g. r. khujadze</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604042" year="1996">
+    <title>"Centrifugal force: A gedanken experiment" - new surprises</title>
+    <authors count="2">
+      <author>g. z. machabeli</author>
+      <author>a. d. rogava</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604043" year="1996">
+    <title>A Poincare Gauge Theory of Gravitation in Minkowski Spacetime</title>
+    <authors count="1">
+      <author>c. wiesendanger</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604044" year="1996">
+    <title>Anomalous Center of Mass Shift: Gravitational Dipole Moment</title>
+    <authors count="1">
+      <author>eue jin jeong</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604045" year="1996">
+    <title>Quantization of a Friedmann-Robertson-Walker Model with Gauge Fields in  N=1 Supergravity</title>
+    <authors count="1">
+      <author>p.v. moniz</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604046" year="1996">
+    <title>The final fate of spherical inhomogeneous dust collapse II: Initial data  and causal structure of singularity</title>
+    <authors count="3">
+      <author>sanjay jhingan</author>
+      <author>p. s. joshi</author>
+      <author>t. p. singh</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604047" year="1996">
+    <title>Test Matter in a Spacetime with Nonmetricity</title>
+    <authors count="2">
+      <author>yuval neeman</author>
+      <author>friedrich w. hehl</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604048" year="1996">
+    <title>Exotic Smoothness on Spacetime</title>
+    <authors count="1">
+      <author>carl h. brans</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604049" year="1996">
+    <title>On cosmic rotation</title>
+    <authors count="2">
+      <author>v.a. korotky</author>
+      <author>yu.n. obukhov</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604050" year="1996">
+    <title>Cosmic Crystallography</title>
+    <authors count="3">
+      <author>r. lehoucq</author>
+      <author>m. lachieze rey</author>
+      <author>j.p.luminet</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604051" year="1996">
+    <title>The Origin of Black Hole Entropy in String Theory</title>
+    <authors count="1">
+      <author>gary horowitz</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604052" year="1996">
+    <title>Gravitons and Lightcone Fluctuations II: Correlation Functions</title>
+    <authors count="2">
+      <author>l.h. ford</author>
+      <author>n. f. svaiter</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604053" year="1996">
+    <title>Ashtekar Constraint Surface as Projection of Hilbert-Palatini One</title>
+    <authors count="1">
+      <author>v.m.khatsymovsky</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604054" year="1996">
+    <title>On Newton-Cartan Cosmology</title>
+    <authors count="2">
+      <author>christian rueede</author>
+      <author>norbert straumann</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604055" year="1996">
+    <title>Conserved masses in GHS Einstein and string black holes</title>
+    <authors count="3">
+      <author>k. c. k. chan</author>
+      <author>j. d. e. creighton</author>
+      <author>r. b. mann</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604056" year="1996">
+    <title>Dynamics of compact homogeneous universes</title>
+    <authors count="3">
+      <author>masayuki tanimoto</author>
+      <author>tatsuhiko koike</author>
+      <author>akio hosoya</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604057" year="1996">
+    <title>Volterra Distortions, Spinning Strings, and Cosmic Defects</title>
+    <authors count="2">
+      <author>roland a. puntigam</author>
+      <author>harald h. soleng</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/gr-qc/9604058" year="1996">
+    <title>Quantum Gravity and Turning Points in the Semiclassical Approximation</title>
+    <authors count="2">
+      <author>esko keski vakkuri</author>
+      <author>samir d. mathur</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/astro-ph/9604059" year="1996">
+    <title>Primordial gravitational waves : a probe of the early universe</title>
+    <authors count="2">
+      <author>r.a. battye</author>
+      <author>e.p.s. shellard</author>
+    </authors>
+    <subjects count="3">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/astro-ph/9604103" year="1996">
+    <title>The spectrum of cosmological perturbations produced by a multi-component  inflaton to second order in the slow-roll approximation</title>
+    <authors count="2">
+      <author>takahiro t. nakamura</author>
+      <author>ewan d. stewart</author>
+    </authors>
+    <subjects count="3">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/astro-ph/9604116" year="1996">
+    <title>The influence of quarks and gluons jets coming from primordial black  holes on the reionization of the Universe</title>
+    <authors count="1">
+      <author>marina gibilisco</author>
+    </authors>
+    <subjects count="2">
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-lat/9604012" year="1996">
+    <title>Lattice Gauge Fields and Noncommutative Geometry</title>
+    <authors count="5">
+      <author>a.p. balachandran</author>
+      <author>g. bimonte</author>
+      <author>g. landi</author>
+      <author>f. lizzi</author>
+      <author>p. teotonio sobrinho</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Lattice (hep-lat)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-lat/9604023" year="1996">
+    <title>Gravitational binding in 4D dynamical triangulation</title>
+    <authors count="2">
+      <author>bas v. de bakker</author>
+      <author>jan smit</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Lattice (hep-lat)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-ph/9604403" year="1996">
+    <title>Neutrino Oscillations in Strong Gravitational Fields</title>
+    <authors count="3">
+      <author>dardo piriz</author>
+      <author>mou roy</author>
+      <author>jose wudka</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-ph/9604407" year="1996">
+    <title>Can Asymptotic Series Resolve the Problems of Inflation?</title>
+    <authors count="2">
+      <author>robert h. brandenberger</author>
+      <author>ariel r. zhitnitsky</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604025" year="1996">
+    <title>Local BRST cohomology and covariance</title>
+    <authors count="1">
+      <author>friedemann brandt</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Algebraic Geometry (math.AG)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604040" year="1996">
+    <title>Gauge Theories in the Momentum/Curvature Representation</title>
+    <authors count="1">
+      <author>roman jackiw</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604046" year="1996">
+    <title>Generalised Raychaudhuri Equations for Strings and Membranes</title>
+    <authors count="1">
+      <author>sayan kar</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604047" year="1996">
+    <title>Stringy black holes and energy conditions</title>
+    <authors count="1">
+      <author>sayan kar</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604048" year="1996">
+    <title>Generalised Raychaudhuri equations for strings in the presence of an  antisymmetric tensor field</title>
+    <authors count="1">
+      <author>sayan kar</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604052" year="1996">
+    <title>The Black Branes of M-theory</title>
+    <authors count="3">
+      <author>m.j. duff</author>
+      <author>h. lu</author>
+      <author>c.n. pope</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604054" year="1996">
+    <title>Computation of the winding number diffusion rate due to the cosmological  sphaleron</title>
+    <authors count="1">
+      <author>mikhail s.volkov</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604084" year="1996">
+    <title>Peak and end point of the relic graviton background in string cosmology</title>
+    <authors count="3">
+      <author>r. brustein</author>
+      <author>m. gasperini</author>
+      <author>g. veneziano</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604085" year="1996">
+    <title>The symmetry structure of the heavenly equation</title>
+    <authors count="3">
+      <author>e. alfinito</author>
+      <author>g. soliani</author>
+      <author>l. solombrino</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Exactly Solvable and Integrable Systems (nlin.SI)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604090" year="1996">
+    <title>Supergravity Domain Walls</title>
+    <authors count="2">
+      <author>mirjam cvetic</author>
+      <author>harald h. soleng</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604111" year="1996">
+    <title>Does a non-zero tunnelling probability imply particle production in time  independent classical electromagnetic backgrounds?</title>
+    <authors count="2">
+      <author>l. sriramkumar</author>
+      <author>t. padmanabhan</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604118" year="1996">
+    <title>Conical geometry and quantum entropy of a charged Kerr black hole</title>
+    <authors count="2">
+      <author>robert b. mann</author>
+      <author>sergey n. solodukhin</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604134" year="1996">
+    <title>Classical Hair in String Theory I: General Formulation</title>
+    <authors count="2">
+      <author>finn larsen</author>
+      <author>frank wilczek</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604135" year="1996">
+    <title>Runaway Collapse of Witten Vortex Loops</title>
+    <authors count="2">
+      <author>arne l. larsen</author>
+      <author>minos axenides</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604137" year="1996">
+    <title>Exotic smoothness and particle physics</title>
+    <authors count="1">
+      <author>jan sladkowski</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604159" year="1996">
+    <title>Spectrum of cosmic gravitational wave background</title>
+    <authors count="1">
+      <author>ram brustein</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Astrophysics (astro-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604170" year="1996">
+    <title>4-D Quantum Dilaton Gravity During Inflation and Renormalization at One  loop</title>
+    <authors count="1">
+      <author>hiroyuki takata</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604177" year="1996">
+    <title>Dyson Pairs and Zero-Mass Black Holes</title>
+    <authors count="2">
+      <author>g. w. gibbons</author>
+      <author>d. a. rasheed</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/hep-th/9604180" year="1996">
+    <title>The Quantum Gauge Principle</title>
+    <authors count="1">
+      <author>dirk graudenz</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="4" url="http://arxiv.org//abs/quant-ph/9604019" year="1996">
+    <title>Constrainted Coherent States</title>
+    <authors count="1">
+      <author>m. c. ashworth</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+</papers>

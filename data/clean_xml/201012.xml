@@ -1,0 +1,4175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<papers count="344">
+  <paper month="12" url="http://arxiv.org//abs/1012.0053" year="2010">
+    <title>Symmetry Reduction of Loop Quantum Gravity</title>
+    <authors count="2">
+      <author>johannes brunnemann</author>
+      <author>tim a. koslowski</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0056" year="2010">
+    <title>The cosmic no-hair conjecture: A study of the Nariai solutions</title>
+    <authors count="1">
+      <author>florian beyer</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0077" year="2010">
+    <title>Evaporation of 2-Dimensional Black Holes</title>
+    <authors count="3">
+      <author>abhay ashtekar</author>
+      <author>frans pretorius</author>
+      <author>fethi m. ramazanoglu</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0085" year="2010">
+    <title>Kinematic Self-Similar Heat Conducting and Charge Solutions</title>
+    <authors count="2">
+      <author>m. sharif</author>
+      <author>wajiha javed</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0087" year="2010">
+    <title>Energy of Bardeen Model Using Approximate Symmetry Method</title>
+    <authors count="2">
+      <author>m. sharif</author>
+      <author>saira waheed</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0119" year="2010">
+    <title>Entropy density of spacetime and the Navier-Stokes fluid dynamics of  null surfaces</title>
+    <authors count="1">
+      <author>t. padmanabhan</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0226" year="2010">
+    <title>Solar system constraints on a Rindler-type extra-acceleration from  modified gravity at large distances</title>
+    <authors count="1">
+      <author>lorenzo iorio</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Earth and Planetary Astrophysics (astro-ph.EP)</subject>
+      <subject>Geophysics (physics.geo-ph)</subject>
+      <subject>Space Physics (physics.space-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0241" year="2010">
+    <title>Hydrodynamic Vacuum Sources of Dark Matter Self-Generation in  Accelerated Universe without Big Bang</title>
+    <authors count="2">
+      <author>s. g. chefranov</author>
+      <author>e. a. novikov</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>Fluid Dynamics (physics.flu-dyn)</subject>
+      <subject>General Physics (physics.gen-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0320" year="2010">
+    <title>Submanifolds in spacetime with an auxiliary unphysical extra dimension  and four-dimensional open and closed FRW universes</title>
+    <authors count="2">
+      <author>igor e. gulamov</author>
+      <author>mikhail n. smolyakov</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0389" year="2010">
+    <title>Black p-Branes versus Black Holes in Non-asymptotically flat  Einstein-Yang-Mills theory</title>
+    <authors count="2">
+      <author>s. habib mazharimousavi</author>
+      <author>m. halilsoy</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0405" year="2010">
+    <title>Coincidence Problem in $f(R)$ Gravity Models</title>
+    <authors count="1">
+      <author>yousef bisabr</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0458" year="2010">
+    <title>Energy estimate for initial data on a characteristic cone</title>
+    <authors count="2">
+      <author>yvonne choquet bruhat</author>
+      <author>jose m. martin garcia</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0474" year="2010">
+    <title>A thermodynamic motivation for dark energy</title>
+    <authors count="2">
+      <author>ninfa radicella</author>
+      <author>diego pavon</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0505" year="2010">
+    <title>Light Cone analysis of relativistic first-order in the gradients  hydrodynamics</title>
+    <authors count="2">
+      <author>d. brun battistini</author>
+      <author>a. sandoval villalbazo</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Statistical Mechanics (cond-mat.stat-mech)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0595" year="2010">
+    <title>Gravitational Wave Extraction in Simulations of Rotating Stellar Core  Collapse</title>
+    <authors count="4">
+      <author>christian reisswig</author>
+      <author>christian d. ott</author>
+      <author>ulrich sperhake</author>
+      <author>erik schnetter</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0644" year="2010">
+    <title>Holographic Superconductors in Gauss-Bonnet gravity with Born-Infeld  electrodynamics</title>
+    <authors count="4">
+      <author>jiliang jing</author>
+      <author>liancheng wang</author>
+      <author>qiyuan pan</author>
+      <author>songbai chen</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Superconductivity (cond-mat.supr-con)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0645" year="2010">
+    <title>Second-order phase transition of Kehagias-Sfetsos black hole in deformed  Hǒrava-Lifshitz gravity</title>
+    <authors count="3">
+      <author>mengjie wang</author>
+      <author>songbai chen</author>
+      <author>jiliang jing</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0673" year="2010">
+    <title>Phantom Inflation with A Steplike Potential</title>
+    <authors count="3">
+      <author>zhi guo liu</author>
+      <author>jun zhang</author>
+      <author>yun song piao</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0777" year="2010">
+    <title>An existence theorem for the Cauchy problem on the light-cone for the  vacuum Einstein equations with near-round analytic data</title>
+    <authors count="3">
+      <author>yvonne choquet bruhat</author>
+      <author>piotr t. chrusciel</author>
+      <author>jose m. martin garcia</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0797" year="2010">
+    <title>How the conservation of charge can lead to a faster-than-c effect: A  simple example</title>
+    <authors count="1">
+      <author>r. y. chiao</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0886" year="2010">
+    <title>Hybrid black-hole binary initial data</title>
+    <authors count="5">
+      <author>bruno c. mundim</author>
+      <author>bernard j. kelly</author>
+      <author>yosef zlochower</author>
+      <author>hiroyuki nakano</author>
+      <author>manuela campanelli</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0908" year="2010">
+    <title>Sensitivity Studies for Third-Generation Gravitational Wave  Observatories</title>
+    <authors count="67">
+      <author>s. hild</author>
+      <author>m. abernathy</author>
+      <author>f. acernese</author>
+      <author>p. amaro seoane</author>
+      <author>n. andersson</author>
+      <author>k. arun</author>
+      <author>f. barone</author>
+      <author>b. barr</author>
+      <author>m. barsuglia</author>
+      <author>m. beker</author>
+      <author>n. beveridge</author>
+      <author>s. birindelli</author>
+      <author>s. bose</author>
+      <author>l. bosi</author>
+      <author>s. braccini</author>
+      <author>c. bradaschia</author>
+      <author>t. bulik</author>
+      <author>e. calloni</author>
+      <author>g. cella</author>
+      <author>e. chassande mottin</author>
+      <author>s. chelkowski</author>
+      <author>a. chincarini</author>
+      <author>j. clark</author>
+      <author>e. coccia</author>
+      <author>c. colacino</author>
+      <author>j. colas</author>
+      <author>a. cumming</author>
+      <author>l. cunningham</author>
+      <author>e. cuoco</author>
+      <author>s. danilishin</author>
+      <author>k. danzmann</author>
+      <author>r. de salvo</author>
+      <author>t. dent</author>
+      <author>r. de rosa</author>
+      <author>l. di fiore</author>
+      <author>a. di virgilio</author>
+      <author>m. doets</author>
+      <author>v. fafone</author>
+      <author>p. falferi</author>
+      <author>r. flaminio</author>
+      <author>j. franc</author>
+      <author>f. frasconi</author>
+      <author>a. freise</author>
+      <author>d. friedrich</author>
+      <author>p. fulda</author>
+      <author>j. gair</author>
+      <author>g. gemme</author>
+      <author>e. genin</author>
+      <author>a. gennai</author>
+      <author>a. giazotto</author>
+      <author>k. glampedakis</author>
+      <author>c. graf</author>
+      <author>m. granata</author>
+      <author>h. grote</author>
+      <author>g. guidi</author>
+      <author>a. gurkovsky</author>
+      <author>g. hammond</author>
+      <author>m. hannam</author>
+      <author>j. harms</author>
+      <author>d. heinert</author>
+      <author>m. hendry</author>
+      <author>i. heng</author>
+      <author>e. hennes</author>
+      <author>j. hough</author>
+      <author>s. husa</author>
+      <author>s. huttner</author>
+      <author>g. jones</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0953" year="2010">
+    <title>f(G) modified gravity and the energy conditions</title>
+    <authors count="4">
+      <author>nadiezhda montelongo garcia</author>
+      <author>tiberiu harko</author>
+      <author>francisco s. n. lobo</author>
+      <author>jose p. mimoso</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0986" year="2010">
+    <title>On the energy of Hořava-Lifshitz black holes</title>
+    <authors count="3">
+      <author>i. radinschi</author>
+      <author>f. rahaman</author>
+      <author>a. banerjee</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0988" year="2010">
+    <title>Constraining String Gauge Field by Planet Perihelion Precession and  Galaxy Rotation Curves</title>
+    <authors count="1">
+      <author>feng xu</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1012" year="2010">
+    <title>Dynamical conformal transformation and classical Euclidean wormholes</title>
+    <authors count="1">
+      <author>f. darabi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1097" year="2010">
+    <title>New static spheroidal solution in Jordan-Brands-Dicke theory</title>
+    <authors count="1">
+      <author>s.m.kozyrev</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Galaxy Astrophysics (astro-ph.GA)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1194" year="2010">
+    <title>Does an atom interferometer test the gravitational redshift at the  Compton frequency ?</title>
+    <authors count="6">
+      <author>peter wolf</author>
+      <author>luc blanchet</author>
+      <author>christian j. borde</author>
+      <author>serge reynaud</author>
+      <author>christophe salomon</author>
+      <author>claude cohen tannoudji</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1233" year="2010">
+    <title>Gravastars with an Interior Dark Energy Fluid Forming a Naked  Singularity</title>
+    <authors count="4">
+      <author>c. f. c. brandt</author>
+      <author>r. chan</author>
+      <author>m. f. a. da silva</author>
+      <author>p. rocha</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1270" year="2010">
+    <title>Dirac fields in f(R)-gravity with torsion</title>
+    <authors count="2">
+      <author>luca fabbri</author>
+      <author>stefano vignolo</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1307" year="2010">
+    <title>Exotic singularities and spatially curved Loop Quantum Cosmology</title>
+    <authors count="2">
+      <author>parampreet singh</author>
+      <author>francesca vidotto</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1343" year="2010">
+    <title>The vacuum revealed: the final state of vacuum instabilities in compact  stars</title>
+    <authors count="5">
+      <author>paolo pani</author>
+      <author>vitor cardoso</author>
+      <author>emanuele berti</author>
+      <author>jocelyn read</author>
+      <author>marcelo salgado</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Solar and Stellar Astrophysics (astro-ph.SR)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1379" year="2010">
+    <title>Quantum charged rigid membrane</title>
+    <authors count="3">
+      <author>ruben cordero</author>
+      <author>alberto molgado</author>
+      <author>efrain rojas</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1400" year="2010">
+    <title>On the Static Spacetime of a Single Point Charge</title>
+    <authors count="1">
+      <author>a. shadi tahvildar zadeh</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1406" year="2010">
+    <title>Modified dispersion relations in extra dimensions</title>
+    <authors count="3">
+      <author>a. s. sefiedgar</author>
+      <author>k. nozari</author>
+      <author>h. r. sepangi</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1409" year="2010">
+    <title>Construction of gauge-invariant variables for linear-order metric  perturbations on some background spacetimes</title>
+    <authors count="1">
+      <author>kouji nakamura</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1443" year="2010">
+    <title>Role of Chameleon Field in Accelerating Universe</title>
+    <authors count="2">
+      <author>piyali bagchi khatua</author>
+      <author>ujjal debnath</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1445" year="2010">
+    <title>Dynamics of Logamediate and Intermediate Scenarios in the Dark Energy  Filled Universe</title>
+    <authors count="2">
+      <author>piyali bagchi khatua</author>
+      <author>ujjal debnath</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1481" year="2010">
+    <title>Magnetized Particle Motion Around Black Hole in Braneworld</title>
+    <authors count="1">
+      <author>ozodbek rahimov</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Solar and Stellar Astrophysics (astro-ph.SR)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1549" year="2010">
+    <title>Reducing orbital eccentricity of precessing black-hole binaries</title>
+    <authors count="5">
+      <author>alessandra buonanno</author>
+      <author>lawrence e. kidder</author>
+      <author>abdul h. mroue</author>
+      <author>harald p. pfeiffer</author>
+      <author>andrea taracchini</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1556" year="2010">
+    <title>Spectral properties of acoustic black hole radiation: Broadening the  horizon</title>
+    <authors count="2">
+      <author>stefano finazzi</author>
+      <author>renaud parentani</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Quantum Gases (cond-mat.quant-gas)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1582" year="2010">
+    <title>Quantum Modifications to Gravity Waves in de Sitter Spacetime</title>
+    <authors count="4">
+      <author>jen tsung hsiang</author>
+      <author>l. h. ford</author>
+      <author>da shin lee</author>
+      <author>hoi lai yu</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1670" year="2010">
+    <title>Strong gravitational lensing in a noncommutative black-hole spacetime</title>
+    <authors count="5">
+      <author>chikun ding</author>
+      <author>shuai kang</author>
+      <author>chang yong chen</author>
+      <author>songbai chen</author>
+      <author>jiliang jing</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1692" year="2010">
+    <title>Consistent Levi Civita truncation uniquely characterizes the Lovelock  Lagrangians</title>
+    <authors count="2">
+      <author>naresh dadhich</author>
+      <author>josep m. pons</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1695" year="2010">
+    <title>Hawking radiation as tunnelling from the trapping horizon of a general  non-static spherically symmetric space-time</title>
+    <authors count="3">
+      <author>subenoy chakraborty</author>
+      <author>nairwita mazumder</author>
+      <author>ritabrata biswas</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1706" year="2010">
+    <title>Inhomogeneities in dusty universe - a possible alternative to dark  energy?</title>
+    <authors count="1">
+      <author>s. chatterjee</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1738" year="2010">
+    <title>Complex Ashtekar variables and reality conditions for Holst's action</title>
+    <authors count="1">
+      <author>wolfgang wieland</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1739" year="2010">
+    <title>Lorentz covariance of loop quantum gravity</title>
+    <authors count="2">
+      <author>carlo rovelli</author>
+      <author>simone speziale</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1784" year="2010">
+    <title>Generalized second law of thermodynamics in presence of interacting  tachyonic field and scalar(phantom)field</title>
+    <authors count="2">
+      <author>surajit chattopadhyay</author>
+      <author>ujjal debnath</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1822" year="2010">
+    <title>Noncommutative Black Holes</title>
+    <authors count="4">
+      <author>c. bastos</author>
+      <author>o. bertolami</author>
+      <author>n.c. dias</author>
+      <author>j. n. prata</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1835" year="2010">
+    <title>Gauge fixing in (2+1)-gravity: Dirac bracket and spacetime geometry</title>
+    <authors count="2">
+      <author>catherine meusburger</author>
+      <author>torsten schonfeld</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1920" year="2010">
+    <title>Shifted Riccati Procedure: Application to Conformal Barotropic FRW  Cosmologies</title>
+    <authors count="2">
+      <author>haret c. rosu</author>
+      <author>kira v. khmelnytskaya</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1982" year="2010">
+    <title>The kinematical Hilbert space of Loop Quantum Gravity from BF theories</title>
+    <authors count="1">
+      <author>francesco cianfrani</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1991" year="2010">
+    <title>Piecewise Flat Gravitational Waves</title>
+    <authors count="1">
+      <author>maarten van de meent</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2007" year="2010">
+    <title>Constraining the quadrupole moment of stellar-mass black-hole candidates  with the continuum fitting method</title>
+    <authors count="2">
+      <author>cosimo bambi</author>
+      <author>enrico barausse</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2028" year="2010">
+    <title>Gravitational radiation from radial infall of a particle into a  Schwarzschild black hole. A numerical study of the spectra, quasi-normal  modes and power-law tails</title>
+    <authors count="1">
+      <author>ermis mitsou</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2070" year="2010">
+    <title>Geometrothermodynamics of a Charged Black Hole of String Theory</title>
+    <authors count="2">
+      <author>alexis larranaga</author>
+      <author>sindy mojica</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2108" year="2010">
+    <title>Possible Generalizations within Braneworld Scenarios: Torsion fields</title>
+    <authors count="2">
+      <author>j m hoff da silva</author>
+      <author>roldao da rocha</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2114" year="2010">
+    <title>Thermodynamics of Constant Curvature Black Holes Through Semi-Classical  Tunneling</title>
+    <authors count="1">
+      <author>alexandre yale</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2134" year="2010">
+    <title>Dense spectrum of resonances and particle capture in a near-black-hole  metric</title>
+    <authors count="3">
+      <author>v. v. flambaum</author>
+      <author>g. h. gossel</author>
+      <author>g. f. gribakin</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Atomic Physics (physics.atom-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2153" year="2010">
+    <title>Graviton and scalar propagations on AdS(4) space in f(R) gravities</title>
+    <authors count="1">
+      <author>yun soo myung</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2188" year="2010">
+    <title>A limit equation associated to the solvability of the vacuum Einstein  constraint equations using the conformal method</title>
+    <authors count="3">
+      <author>mattias dahl</author>
+      <author>romain gicquaud</author>
+      <author>emmanuel humbert</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Analysis of PDEs (math.AP)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2245" year="2010">
+    <title>A possible Reinterpretation of Einstein's Equations</title>
+    <authors count="2">
+      <author>a.bouda</author>
+      <author>a.belabbas</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2246" year="2010">
+    <title>A large class of non constant mean curvature solutions of the Einstein  constraint equations on an asymptotically hyperbolic manifold</title>
+    <authors count="2">
+      <author>romain gicquaud</author>
+      <author>anna sakovich</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Analysis of PDEs (math.AP)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2249" year="2010">
+    <title>The growth factor of matter perturbations in an f(R) gravity</title>
+    <authors count="3">
+      <author>xiangyun fu</author>
+      <author>puxun wu</author>
+      <author>hongwei yu</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2258" year="2010">
+    <title>Path and Path Deviation Equations for p-branes</title>
+    <authors count="2">
+      <author>m. pavsic</author>
+      <author>m. e. kahil</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2324" year="2010">
+    <title>Matter in inhomogeneous loop quantum cosmology: the Gowdy $T^3$ model</title>
+    <authors count="3">
+      <author>mercedes martin benito</author>
+      <author>daniel martin de blas</author>
+      <author>guillermo a. mena marugan</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2327" year="2010">
+    <title>Four-vector vs. four-scalar representation of the Dirac wave function</title>
+    <authors count="2">
+      <author>mayeul arminjon</author>
+      <author>frank reifler</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2374" year="2010">
+    <title>Particle Creation by Naked Singularities in Higher Dimensions</title>
+    <authors count="3">
+      <author>umpei miyamoto</author>
+      <author>hiroya nemoto</author>
+      <author>masahiro shimano</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2413" year="2010">
+    <title>Horizon area--angular momentum inequality for a class of axially  symmetric black holes</title>
+    <authors count="3">
+      <author>andres acena</author>
+      <author>sergio dain</author>
+      <author>maria e. gabach clement</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2419" year="2010">
+    <title>Multiple quantum collapse of the inflaton field and its implications on  the birth of cosmic structure</title>
+    <authors count="3">
+      <author>gabriel leon</author>
+      <author>adolfo de unanue</author>
+      <author>daniel sudarsky</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2431" year="2010">
+    <title>Archimedean-type force in a cosmic dark fluid: I. Exact solutions for  the late-time accelerated expansion</title>
+    <authors count="2">
+      <author>alexander b. balakin</author>
+      <author>vladimir v. bochkarev</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2433" year="2010">
+    <title>Archimedean-type force in a cosmic dark fluid: II. Qualitative and  numerical study of a multistage Universe expansion</title>
+    <authors count="2">
+      <author>alexander b. balakin</author>
+      <author>vladimir v. bochkarev</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2443" year="2010">
+    <title>Nonminimal curvature-matter coupled wormholes with matter satisfying the  null energy condition</title>
+    <authors count="2">
+      <author>nadiezhda montelongo garcia</author>
+      <author>francisco s. n. lobo</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2445" year="2010">
+    <title>Graviton emission from the brane in the bulk in a model with extra  dimension</title>
+    <authors count="1">
+      <author>mikhail z. iofa</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2456" year="2010">
+    <title>Binary black hole coalescence in the extreme-mass-ratio limit: testing  and improving the effective-one-body multipolar waveform</title>
+    <authors count="3">
+      <author>sebastiano bernuzzi</author>
+      <author>alessandro nagar</author>
+      <author>anil zenginoglu</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2560" year="2010">
+    <title>The Klein-Gordon equation in Machian model</title>
+    <authors count="4">
+      <author>bin liu</author>
+      <author>yun chuan dai</author>
+      <author>xian ru hu</author>
+      <author>jian bo deng</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2680" year="2010">
+    <title>Planck Scale Cosmology and Asymptotic Safety in Resummed Quantum Gravity</title>
+    <authors count="1">
+      <author>b.f.l. ward</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2692" year="2010">
+    <title>Cosmological implications of interacting polytropic gas dark energy  model in non-flat universe</title>
+    <authors count="3">
+      <author>m. malekjani</author>
+      <author>a. khodam mohammadi</author>
+      <author>m. taji</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2766" year="2010">
+    <title>Odd Parity Perturbations of the Self-Similar LTB Spacetime</title>
+    <authors count="2">
+      <author>emily m. duffy</author>
+      <author>brien c. nolan</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2776" year="2010">
+    <title>Vector fields and Loop Quantum Cosmology</title>
+    <authors count="2">
+      <author>michal artymowski</author>
+      <author>zygmunt lalak</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2822" year="2010">
+    <title>Horava-Lifshitz gravity: tighter constraints for the Kehagias-Sfetsos  solution from new solar system data</title>
+    <authors count="2">
+      <author>lorenzo iorio</author>
+      <author>matteo luca ruggiero</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Earth and Planetary Astrophysics (astro-ph.EP)</subject>
+      <subject>Space Physics (physics.space-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2846" year="2010">
+    <title>Radiation reaction and energy-momentum conservation</title>
+    <authors count="1">
+      <author>dmitri galtsov</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2861" year="2010">
+    <title>Cosmological models with gauge fields</title>
+    <authors count="2">
+      <author>dmitry v. galtsov</author>
+      <author>evgeny a. davydov</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2867" year="2010">
+    <title>Entropy bounds for uncollapsed rotating bodies</title>
+    <authors count="2">
+      <author>gabriel abreu</author>
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2872" year="2010">
+    <title>The Status of Black-Hole Binary Merger Simulations with Numerical  Relativity</title>
+    <authors count="1">
+      <author>sean t. mcwilliams</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>Galaxy Astrophysics (astro-ph.GA)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2879" year="2010">
+    <title>Tracking the precession of compact binaries from their  gravitational-wave signal</title>
+    <authors count="4">
+      <author>patricia schmidt</author>
+      <author>mark hannam</author>
+      <author>sascha husa</author>
+      <author>p. ajith</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3060" year="2010">
+    <title>Lorentz-covariant perturbation theory for relativistic gravitational  bremsstrahlung</title>
+    <authors count="3">
+      <author>dmitri v. galtsov</author>
+      <author>yuri v. grats</author>
+      <author>alexander a. matiukhin</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3083" year="2010">
+    <title>Effective Inhomogeneous Cosmologies and Emerging Scalar Fields</title>
+    <authors count="3">
+      <author>thomas buchert</author>
+      <author>nathaniel obadia</author>
+      <author>xavier roy</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3084" year="2010">
+    <title>Towards physical cosmology: geometrical interpretation of Dark Energy,  Dark Matter and Inflation without fundamental sources</title>
+    <authors count="1">
+      <author>thomas buchert</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3085" year="2010">
+    <title>Radiation reaction in curved even-dimensional spacetime</title>
+    <authors count="2">
+      <author>dmitri v. galtsov</author>
+      <author>pavel spirin</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3090" year="2010">
+    <title>On physical insignificance of null naked singularities</title>
+    <authors count="1">
+      <author>shrirang s. deshingkar</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3103" year="2010">
+    <title>Magnetars oscillations in the presence of a crust</title>
+    <authors count="2">
+      <author>antonella colaiuda</author>
+      <author>kostas d. kokkotas</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3122" year="2010">
+    <title>Dark Matter Explanation from Quasi-Metric Gravity</title>
+    <authors count="1">
+      <author>dag ostvang</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3144" year="2010">
+    <title>Effective Gravitational Wave Stress-energy Tensor in Alternative  Theories of Gravity</title>
+    <authors count="2">
+      <author>leo c. stein</author>
+      <author>nicolas yunes</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3159" year="2010">
+    <title>$w$-singularities in cosmological models</title>
+    <authors count="1">
+      <author>l. fernandez jambrina</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3165" year="2010">
+    <title>Exact Hawking Radiation of Scalars, Fermions, and Bosons Using the  Tunneling Method Without Back-Reaction</title>
+    <authors count="1">
+      <author>alexandre yale</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3171" year="2010">
+    <title>Anisotropic stress and stability in modified gravity models</title>
+    <authors count="2">
+      <author>ippocratis d. saltas</author>
+      <author>martin kunz</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3173" year="2010">
+    <title>Black-hole binaries go to eleven orbits</title>
+    <authors count="4">
+      <author>ulrich sperhake</author>
+      <author>bernd bruegmann</author>
+      <author>doreen mueller</author>
+      <author>carlos f. sopuerta</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3353" year="2010">
+    <title>Restricting Fourth Order Gravity via Cosmology</title>
+    <authors count="1">
+      <author>william nelson</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3415" year="2010">
+    <title>On the Equivalence between Euclidean and In-In Formalisms in de Sitter  QFT</title>
+    <authors count="3">
+      <author>atsushi higuchi</author>
+      <author>donald marolf</author>
+      <author>ian a. morrison</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3556" year="2010">
+    <title>Higher Dimensional Cosmology: Relations among the radii of two  homogeneous spaces</title>
+    <authors count="4">
+      <author>e. a. leon</author>
+      <author>j. a. nieto</author>
+      <author>r. nunez lopez</author>
+      <author>a. lipovka</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3703" year="2010">
+    <title>The trumpet solution from spherical gravitational collapse with puncture  gauges</title>
+    <authors count="5">
+      <author>marcus thierfelder</author>
+      <author>sebastiano bernuzzi</author>
+      <author>david hilditch</author>
+      <author>bernd bruegmann</author>
+      <author>luciano rezzolla</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3713" year="2010">
+    <title>Quantum Gowdy model within the new loop quantum cosmology improved  dynamics</title>
+    <authors count="3">
+      <author>m martin benito</author>
+      <author>l j garay</author>
+      <author>g a mena marugan</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3820" year="2010">
+    <title>Holographic superconductor models in the non-minimal derivative coupling  theory</title>
+    <authors count="3">
+      <author>songbai chen</author>
+      <author>qiyuan pan</author>
+      <author>jiliang jing</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3832" year="2010">
+    <title>U(N) invariant dynamics for a simplified Loop Quantum Gravity model</title>
+    <authors count="4">
+      <author>enrique f. borja</author>
+      <author>jacobo diaz polo</author>
+      <author>inaki garay</author>
+      <author>etera r. livine</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3834" year="2010">
+    <title>Killing spinor space-times and constant-eigenvalue Killing tensors</title>
+    <authors count="3">
+      <author>d. beke</author>
+      <author>n. van den bergh</author>
+      <author>l. wylleman</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3894" year="2010">
+    <title>Full-analytic frequency-domain gravitational wave forms from eccentric  compact binaries to 2PN accuracy</title>
+    <authors count="2">
+      <author>manuel tessmer</author>
+      <author>gerhard schaefer</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3970" year="2010">
+    <title>A note on the 3D Brans-Dicke theory</title>
+    <authors count="3">
+      <author>t. g. do prado</author>
+      <author>v. s. mendes</author>
+      <author>m. c. verges</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4030" year="2010">
+    <title>Mass Quadrupole as a Source of Naked Singularities</title>
+    <authors count="1">
+      <author>hernando quevedo</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4039" year="2010">
+    <title>Generalizations of teleparallel gravity and local Lorentz symmetry</title>
+    <authors count="3">
+      <author>thomas p. sotiriou</author>
+      <author>baojiu li</author>
+      <author>john d. barrow</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4043" year="2010">
+    <title>Stereoscopic visualization in curved spacetime: seeing deep inside a  black hole</title>
+    <authors count="2">
+      <author>andrew j. s. hamilton</author>
+      <author>gavin polhemus</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4172" year="2010">
+    <title>Domain Walls in AdS-Einstein-scalar Gravity</title>
+    <authors count="1">
+      <author>sangheon yun</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4180" year="2010">
+    <title>Black hole dynamical evolution in a Lorentz-violating spacetime</title>
+    <authors count="2">
+      <author>s. esposito</author>
+      <author>g. salesi</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4190" year="2010">
+    <title>A counterexample to a Penrose inequality conjectured by Gibbons</title>
+    <authors count="3">
+      <author>sergio dain</author>
+      <author>gilbert weinstein</author>
+      <author>sumio yamada</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4207" year="2010">
+    <title>Comment on "Model for Gravity at Large Distances"</title>
+    <authors count="3">
+      <author>tonguc rador</author>
+      <author>savas arapoglu</author>
+      <author>ibrahim semiz</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4216" year="2010">
+    <title>4-dimensional Spin-foam Model with Quantum Lorentz Group</title>
+    <authors count="1">
+      <author>muxin han</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4244" year="2010">
+    <title>Bach flows of product manifolds</title>
+    <authors count="2">
+      <author>sanjit das</author>
+      <author>sayan kar</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4246" year="2010">
+    <title>A Unified Approach to Variational Derivatives of Modified Gravitational  Actions</title>
+    <authors count="2">
+      <author>ahmet baykal</author>
+      <author>ozgur delice</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4282" year="2010">
+    <title>The most general ELKO Matter in torsional f(R)-theories</title>
+    <authors count="2">
+      <author>luca fabbri</author>
+      <author>stefano vignolo</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4287" year="2010">
+    <title>Divergence on the Horizon</title>
+    <authors count="1">
+      <author>judy kupferman</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4390" year="2010">
+    <title>Lovelock solutions in the presence of matter sources</title>
+    <authors count="3">
+      <author>yannis bardoux</author>
+      <author>christos charmousis</author>
+      <author>theodoros kolyvaris</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4423" year="2010">
+    <title>Characterization of the gravitational wave emission of three black holes</title>
+    <authors count="2">
+      <author>pablo galaviz</author>
+      <author>bernd bruegmann</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4467" year="2010">
+    <title>The causal structure of spacetime is a parameterized Randers geometry</title>
+    <authors count="2">
+      <author>jozef skakala</author>
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4476" year="2010">
+    <title>Lessons from Classical Gravity about the Quantum Structure of Spacetime</title>
+    <authors count="1">
+      <author>t. padmanabhan</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4488" year="2010">
+    <title>A nonlinear scalar model of extreme mass ratio inspirals in effective  field theory I. Self force through third order</title>
+    <authors count="1">
+      <author>chad r. galley</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4530" year="2010">
+    <title>Multibaseline gravitational wave radiometry</title>
+    <authors count="3">
+      <author>dipongkar talukder</author>
+      <author>sanjit mitra</author>
+      <author>sukanta bose</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4595" year="2010">
+    <title>Late-time behaviour of the Einstein-Vlasov system with Bianchi I  symmetry</title>
+    <authors count="1">
+      <author>ernesto nungesser</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4605" year="2010">
+    <title>Cosmological solutions in F(R) Horava-Lifshitz gravity</title>
+    <authors count="1">
+      <author>diego saez gomez</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4614" year="2010">
+    <title>Look at the holographic universe from a moving frame and Casimir energy</title>
+    <authors count="2">
+      <author>v.i. dokuchaev</author>
+      <author>yu.n. eroshenko</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4662" year="2010">
+    <title>On quasi-local charges and Newman--Penrose type quantities in  Yang--Mills theories</title>
+    <authors count="2">
+      <author>reka farkas</author>
+      <author>laszlo b szabados</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4707" year="2010">
+    <title>Loop quantum gravity: the first twenty five years</title>
+    <authors count="1">
+      <author>carlo rovelli</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4708" year="2010">
+    <title>The Nature and Origin of Time-asymmetric Spacetime Structures</title>
+    <authors count="1">
+      <author>h. d. zeh</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4719" year="2010">
+    <title>Spinfoam fermions</title>
+    <authors count="6">
+      <author>eugenio bianchi</author>
+      <author>muxin han</author>
+      <author>elena magliaro</author>
+      <author>claudio perini</author>
+      <author>carlo rovelli</author>
+      <author>wolfgang wieland</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4730" year="2010">
+    <title>An approach to electromagnetism from the general relativity</title>
+    <authors count="1">
+      <author>robert monjo i agut</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4758" year="2010">
+    <title>Coherent States of Accelerated Relativistic Quantum Particles, Vacuum  Radiation and the Spontaneous Breakdown of the Conformal SU(2,2) Symmetry</title>
+    <authors count="3">
+      <author>m.calixto</author>
+      <author>e. perez romero</author>
+      <author>v. aldaya</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4784" year="2010">
+    <title>Quantum deformation of two four-dimensional spin foam models</title>
+    <authors count="2">
+      <author>winston j. fairbairn</author>
+      <author>catherine meusburger</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4806" year="2010">
+    <title>Some generalizations of the Raychaudhuri equation</title>
+    <authors count="2">
+      <author>gabriel abreu</author>
+      <author>matt visser</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4869" year="2010">
+    <title>Frame-Dragging Vortexes and Tidal Tendexes Attached to Colliding Black  Holes: Visualizing the Curvature of Spacetime</title>
+    <authors count="11">
+      <author>robert owen</author>
+      <author>jeandrew brink</author>
+      <author>yanbei chen</author>
+      <author>jeffrey d. kaplan</author>
+      <author>geoffrey lovelace</author>
+      <author>keith d. matthews</author>
+      <author>david a. nichols</author>
+      <author>mark a. scheel</author>
+      <author>fan zhang</author>
+      <author>aaron zimmerman</author>
+      <author>kip s. thorne</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>Galaxy Astrophysics (astro-ph.GA)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4939" year="2010">
+    <title>A targeted coherent search for gravitational waves from compact binary  coalescences</title>
+    <authors count="2">
+      <author>ian harry</author>
+      <author>stephen fairhurst</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5052" year="2010">
+    <title>Charged Rotating Black Holes in Higher Dimensions</title>
+    <authors count="3">
+      <author>masoud allahverdizadeh</author>
+      <author>jutta kunz</author>
+      <author>francisco navarro lerida</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5110" year="2010">
+    <title>Quasinormal modes for the charged Vaidya metric</title>
+    <authors count="2">
+      <author>cecilia chirenti</author>
+      <author>alberto saa</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5111" year="2010">
+    <title>Forced motion near black holes</title>
+    <authors count="5">
+      <author>jonathan r. gair</author>
+      <author>eanna e. flanagan</author>
+      <author>steve drasco</author>
+      <author>tanja hinderer</author>
+      <author>stanislav babak</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Galaxy Astrophysics (astro-ph.GA)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5126" year="2010">
+    <title>Particle Acceleration on the Background of the Kerr-Taub-NUT Spacetime</title>
+    <authors count="4">
+      <author>changqing liu</author>
+      <author>songbai chen</author>
+      <author>chikun ding</author>
+      <author>jiliang jing</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5172" year="2010">
+    <title>Phenomenological gravitational waveforms from spinning coalescing  binaries</title>
+    <authors count="7">
+      <author>r. sturani</author>
+      <author>s. fischetti</author>
+      <author>l. cadonati</author>
+      <author>g. m. guidi</author>
+      <author>j. healy</author>
+      <author>d. shoemaker</author>
+      <author>a. vicere</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5202" year="2010">
+    <title>Inflation with a Weyl term, or ghosts at work</title>
+    <authors count="4">
+      <author>nathalie deruelle</author>
+      <author>misao sasaki</author>
+      <author>yuuiti sendouda</author>
+      <author>ahmed youssef</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5223" year="2010">
+    <title>Regular isolated black holes</title>
+    <authors count="3">
+      <author>carlos kozameh</author>
+      <author>osvaldo moreschi</author>
+      <author>alejandro perez</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>Galaxy Astrophysics (astro-ph.GA)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5226" year="2010">
+    <title>Tracing light propagation to the intrinsic accuracy of space-time  geometry</title>
+    <authors count="1">
+      <author>mariateresa crosta</author>
+    </authors>
+    <subjects count="4">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Instrumentation and Methods for Astrophysics (astro-ph.IM)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>Space Physics (physics.space-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5230" year="2010">
+    <title>Static Spherically Symmetric Solutions in F(R) Gravity</title>
+    <authors count="2">
+      <author>lorenzo sebastiani</author>
+      <author>sergio zerbini</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Lattice (hep-lat)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5252" year="2010">
+    <title>Domain wall space-times with a cosmological constant</title>
+    <authors count="3">
+      <author>chih hung wang</author>
+      <author>hing tong cho</author>
+      <author>yu huei wu</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5277" year="2010">
+    <title>Gravitational Waves in Braneworld Scenarios with AdS Background</title>
+    <authors count="4">
+      <author>a. c. amaro de faria</author>
+      <author>roldao da rocha</author>
+      <author>m. e. s. alves</author>
+      <author>j. c. n. de araujo</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5368" year="2010">
+    <title>f-symbols, Killing tensors and conserved Bel-type currents</title>
+    <authors count="1">
+      <author>ovidiu tintareanu mircea</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5375" year="2010">
+    <title>Weyl invariant Dirac-Born-Infeld-Einstein theory</title>
+    <authors count="3">
+      <author>nahomi kan</author>
+      <author>takuya maki</author>
+      <author>kiyoshi shiraishi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5386" year="2010">
+    <title>Conformal transformations and Nordström's scalar theory of gravity</title>
+    <authors count="2">
+      <author>nathalie deruelle</author>
+      <author>misao sasaki</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5402" year="2010">
+    <title>Post-post-Newtonian light propagation without integrating the geodesic  equations</title>
+    <authors count="1">
+      <author>pierre teyssandier</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Instrumentation and Methods for Astrophysics (astro-ph.IM)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5421" year="2010">
+    <title>Ideal Gas in a strong Gravitational field: Area dependence of Entropy</title>
+    <authors count="2">
+      <author>sanved kolekar</author>
+      <author>t. padmanabhan</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5531" year="2010">
+    <title>Validity of Thermodynamical Laws in Dark Energy Filled Universe</title>
+    <authors count="2">
+      <author>samarpita bhattacharya</author>
+      <author>ujjal debnath</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5557" year="2010">
+    <title>Fermionic cosmologies with Yukawa type interactions</title>
+    <authors count="3">
+      <author>marlos o. ribas</author>
+      <author>fernando p. devecchi</author>
+      <author>gilberto m. kremer</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5577" year="2010">
+    <title>Weak Gravity Conjecture and Holographic/Agegraphic Dark Energy</title>
+    <authors count="2">
+      <author>cheng yi sun</author>
+      <author>rui hong yue</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5578" year="2010">
+    <title>The statistical dynamics of classic particles ensemble in gravitational  field</title>
+    <authors count="1">
+      <author>yurii ignatyev</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5582" year="2010">
+    <title>The Relativistic kinetics of gravitational waves collisional damping in  hot Universe</title>
+    <authors count="2">
+      <author>yu.g.ignatyev</author>
+      <author>v.yu.shulikovsky</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5605" year="2010">
+    <title>Charged gravastars admitting conformal motion</title>
+    <authors count="7">
+      <author>a a usmani</author>
+      <author>farook rahaman</author>
+      <author>saibal ray</author>
+      <author>k k nandi</author>
+      <author>peter k. f. kuhfittig</author>
+      <author>sk. a rakib</author>
+      <author>z hasan</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5619" year="2010">
+    <title>The complete relativistic kinetic model of violation of symmetry in  isotopic expanding plasma and production of baryons in hot Universe. I. Exact  model</title>
+    <authors count="2">
+      <author>yu.g.ignatyev</author>
+      <author>k.alsmadi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5622" year="2010">
+    <title>General relativistic spin-orbit and spin-spin effects on the motion of  rotating particles in an external gravitational field</title>
+    <authors count="1">
+      <author>lorenzo iorio</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Earth and Planetary Astrophysics (astro-ph.EP)</subject>
+      <subject>Space Physics (physics.space-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5623" year="2010">
+    <title>The complete relativistic kinetic model of violation of symmetry in  isotopic expanding plasma and production of baryons in hot Universe. II.  Numerical model: X-boson distribution function</title>
+    <authors count="2">
+      <author>yu.g.ignatyev</author>
+      <author>k.alsmadi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5626" year="2010">
+    <title>The complete relativistic kinetic model of symmetry violation in  isotopic expanding plasma. III. Specific entropy calculation</title>
+    <authors count="2">
+      <author>yu.g.ignatyev</author>
+      <author>k.alsmadi</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5719" year="2010">
+    <title>Super-acceleration in non-minimal derivative coupling model</title>
+    <authors count="1">
+      <author>h. mohseni sadjadi</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5860" year="2010">
+    <title>A Fast Frequency-Domain Algorithm for Gravitational Self-Force: I,  Circular Orbits in Schwarzschild Spacetime</title>
+    <authors count="1">
+      <author>sarp akcay</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5931" year="2010">
+    <title>Weakly regular T2 symmetric spacetimes. The global geometry of future  developments</title>
+    <authors count="2">
+      <author>philippe g. lefloch</author>
+      <author>jacques smulevici</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Analysis of PDEs (math.AP)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5963" year="2010">
+    <title>Decay of linear waves on higher dimensional Schwarzschild black holes</title>
+    <authors count="1">
+      <author>volker schlue</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>Analysis of PDEs (math.AP)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5968" year="2010">
+    <title>From laboratory experiments to LISA Pathfinder: achieving LISA geodesic  motion</title>
+    <authors count="67">
+      <author>f antonucci</author>
+      <author>m armano</author>
+      <author>h audley</author>
+      <author>g auger</author>
+      <author>m benedetti</author>
+      <author>p binetruy</author>
+      <author>c boatella</author>
+      <author>j bogenstahl</author>
+      <author>d bortoluzzi</author>
+      <author>p bosetti</author>
+      <author>n brandt</author>
+      <author>m caleno</author>
+      <author>a cavalleri</author>
+      <author>m cesa</author>
+      <author>m chmeissani</author>
+      <author>g ciani</author>
+      <author>a conchillo</author>
+      <author>g congedo</author>
+      <author>i cristofolini</author>
+      <author>m cruise</author>
+      <author>k danzmann</author>
+      <author>f de marchi</author>
+      <author>m diaz aguilo</author>
+      <author>i diepholz</author>
+      <author>g dixon</author>
+      <author>r dolesi</author>
+      <author>n dunbar</author>
+      <author>j fauste</author>
+      <author>l ferraioli</author>
+      <author>d fertin</author>
+      <author>w fichter</author>
+      <author>e fitzsimons</author>
+      <author>m freschi</author>
+      <author>a garcia marin</author>
+      <author>c garcia marirrodriga</author>
+      <author>r gerndt</author>
+      <author>l gesa</author>
+      <author>d giardini</author>
+      <author>f gibert</author>
+      <author>c grimani</author>
+      <author>a grynagier</author>
+      <author>b guillaume</author>
+      <author>f guzman</author>
+      <author>i harrison</author>
+      <author>g heinzel</author>
+      <author>m hewitson</author>
+      <author>d hollington</author>
+      <author>j hough</author>
+      <author>d hoyland</author>
+      <author>m hueller</author>
+      <author>j huesler</author>
+      <author>o jeannin</author>
+      <author>o jennrich</author>
+      <author>p jetzer</author>
+      <author>b johlander</author>
+      <author>c killow</author>
+      <author>x llamas</author>
+      <author>i lloro</author>
+      <author>a lobo</author>
+      <author>r maarschalkerweerd</author>
+      <author>s madden</author>
+      <author>d mance</author>
+      <author>i mateos</author>
+      <author>p w mcnamara</author>
+      <author>j mendesti</author>
+      <author>e mitchell</author>
+      <author>a monsky</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Instrumentation and Methods for Astrophysics (astro-ph.IM)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.6025" year="2010">
+    <title>D-dimensional metrics with D-3 symmetries</title>
+    <authors count="3">
+      <author>a. szereszewski</author>
+      <author>j. tafel</author>
+      <author>m. jakimowicz</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.6038" year="2010">
+    <title>Singularity theorems from weakened energy conditions</title>
+    <authors count="2">
+      <author>christopher j. fewster</author>
+      <author>gregory j. galloway</author>
+    </authors>
+    <subjects count="1">
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0002" year="2010">
+    <title>Clarifying the effects of interacting dark energy on linear and  nonlinear structure formation processes</title>
+    <authors count="1">
+      <author>marco baldi</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0070" year="2010">
+    <title>Perturbation theory of multi-plane lens effects in terms of mass ratios:  Approximate expressions of lensed-image positions for two lens planes</title>
+    <authors count="2">
+      <author>koji izumi</author>
+      <author>hideki asada</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0154" year="2010">
+    <title>The relativistic Feynman-Metropolis-Teller theory for white-dwarfs in  general relativity</title>
+    <authors count="4">
+      <author>m. rotondo</author>
+      <author>jorge a. rueda</author>
+      <author>r. ruffini</author>
+      <author>s. s. xue</author>
+    </authors>
+    <subjects count="3">
+      <subject>Solar and Stellar Astrophysics (astro-ph.SR)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Nuclear Theory (nucl-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0172" year="2010">
+    <title>Scalar field cosmology -- toward description of dynamic complexity of  cosmological evolution</title>
+    <authors count="3">
+      <author>orest hrycyna</author>
+      <author>marek szydlowski</author>
+      <author>adam krawiec</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0174" year="2010">
+    <title>The first order hydrodynamics via AdS/CFT correspondence in the  Gauss-Bonnet gravity</title>
+    <authors count="3">
+      <author>ya peng hu</author>
+      <author>huai fan li</author>
+      <author>zhang yu nie</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0202" year="2010">
+    <title>Vortex flow for a holographic superconductor</title>
+    <authors count="2">
+      <author>kengo maeda</author>
+      <author>takashi okamura</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0309" year="2010">
+    <title>Observable Gravity Waves from Supersymmetric Hybrid Inflation II</title>
+    <authors count="3">
+      <author>mansoor ur rehman</author>
+      <author>qaisar shafi</author>
+      <author>joshua r. wickman</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0381" year="2010">
+    <title>Entropic Corrections to Einstein Equations</title>
+    <authors count="2">
+      <author>s. h. hendi</author>
+      <author>a. sheykhi</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0390" year="2010">
+    <title>Massive charged particle's tunneling from spherical charged black hole</title>
+    <authors count="3">
+      <author>yan gang miao</author>
+      <author>zhao xue</author>
+      <author>shao jun zhang</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0411" year="2010">
+    <title>Thermodynamics on the Maximally Symmetric Holographic Screen and Entropy  from Conical Singularities</title>
+    <authors count="2">
+      <author>yu tian</author>
+      <author>xiao ning wu</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0441" year="2010">
+    <title>Negative mode of Schwarzschild black hole from the thermodynamic  instability</title>
+    <authors count="1">
+      <author>takayuki hirayama</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0463" year="2010">
+    <title>Chiral Modulations in Curved Space I: Formalism</title>
+    <authors count="2">
+      <author>antonino flachi</author>
+      <author>takahiro tanaka</author>
+    </authors>
+    <subjects count="5">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Lattice (hep-lat)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0473" year="2010">
+    <title>U(1) Invariant F(R) Horava-Lifshitz Gravity</title>
+    <authors count="4">
+      <author>josef kluson</author>
+      <author>shinichi nojiri</author>
+      <author>sergei d. odintsov</author>
+      <author>diego saez gomez</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0546" year="2010">
+    <title>The tight-coupling approximation for baryon acoustic oscillations</title>
+    <authors count="1">
+      <author>cyril pitrou</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0549" year="2010">
+    <title>Supercurvaton</title>
+    <authors count="3">
+      <author>vittoria demozzi</author>
+      <author>andrei linde</author>
+      <author>viatcheslav mukhanov</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0568" year="2010">
+    <title>AdS Black Hole Solution in Dilatonic Einstein-Gauss-Bonnet Gravity</title>
+    <authors count="3">
+      <author>kei ichi maeda</author>
+      <author>nobuyoshi ohta</author>
+      <author>yukinori sasagawa</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0569" year="2010">
+    <title>Photons and Baryons before Atoms: Improving the Tight-Coupling  Approximation</title>
+    <authors count="2">
+      <author>francis yan cyr racine</author>
+      <author>kris sigurdson</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0642" year="2010">
+    <title>Searching for Chameleon-like Scalar Fields</title>
+    <authors count="8">
+      <author>s. a. levshakov</author>
+      <author>p. molaro</author>
+      <author>m. g. kozlov</author>
+      <author>a. v. lapinov</author>
+      <author>c. henkel</author>
+      <author>d. reimers</author>
+      <author>t. sakai</author>
+      <author>i. i. agafonova</author>
+    </authors>
+    <subjects count="5">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Nuclear Theory (nucl-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0713" year="2010">
+    <title>Quantum Gravity coupled to Matter via Noncommutative Geometry</title>
+    <authors count="3">
+      <author>johannes aastrup</author>
+      <author>jesper m. grimstrup</author>
+      <author>mario paschke</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0743" year="2010">
+    <title>Comments on the paper by E. Gjerlow and O. Elgaroy "Are all modes  created equal ? An analysis of the WMAP 5- and 7-year data without  inflationary prejudice"</title>
+    <authors count="1">
+      <author>l. p. grishchuk</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0748" year="2010">
+    <title>Particle Acceleration in Kerr-(anti-) de Sitter Black Hole Backgrounds</title>
+    <authors count="5">
+      <author>yang li</author>
+      <author>jie yang</author>
+      <author>yun liang li</author>
+      <author>shao wen wei</author>
+      <author>yu xiao liu</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0784" year="2010">
+    <title>Backreaction as an alternative to dark energy and modified gravity</title>
+    <authors count="1">
+      <author>syksy rasanen</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0853" year="2010">
+    <title>UV-Protected Inflation</title>
+    <authors count="2">
+      <author>cristiano germani</author>
+      <author>alex kehagias</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0883" year="2010">
+    <title>Dark Energy Cosmology with the Alternative Cosmic Microwave Background  Data</title>
+    <authors count="1">
+      <author>hao wei</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0885" year="2010">
+    <title>On cosmologically designed modified gravity theories</title>
+    <authors count="3">
+      <author>jai chan hwang</author>
+      <author>hyerim noh</author>
+      <author>chan gyung park</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0954" year="2010">
+    <title>An Extension of the IAU Framework for Reference Systems</title>
+    <authors count="1">
+      <author>sergei kopeikin</author>
+    </authors>
+    <subjects count="2">
+      <subject>Instrumentation and Methods for Astrophysics (astro-ph.IM)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0971" year="2010">
+    <title>Some Aspects of Spherical Symmetric Extremal Dyonic Black Holes in 4d  N=1 Supergravity</title>
+    <authors count="5">
+      <author>bobby e. gunara</author>
+      <author>freddy p. zen</author>
+      <author>fiki t. akbar</author>
+      <author>agus suroso</author>
+      <author>arianto</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.0992" year="2010">
+    <title>Quantum Structures of a Model-Universe: Questioning the Everett  Interpretation of Quantum Mechanics</title>
+    <authors count="3">
+      <author>j. jeknic dugic</author>
+      <author>m. dugic</author>
+      <author>a. francom</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1015" year="2010">
+    <title>On causal properties of symmetric Lorentzian spaces</title>
+    <authors count="1">
+      <author>ya. v. bazaikin</author>
+    </authors>
+    <subjects count="2">
+      <subject>Differential Geometry (math.DG)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1050" year="2010">
+    <title>Chaplygin gas braneworld inflation according to WMAP7 data</title>
+    <authors count="2">
+      <author>r. zarrouki</author>
+      <author>m. bennai</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1065" year="2010">
+    <title>Initial-boundary value problems for second order systems of partial  differential equations</title>
+    <authors count="3">
+      <author>heinz otto kreiss</author>
+      <author>omar e. ortiz</author>
+      <author>n. anders petersson</author>
+    </authors>
+    <subjects count="2">
+      <subject>Analysis of PDEs (math.AP)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1077" year="2010">
+    <title>Toda Molecule and Tomimatsu-Sato Solution $\sim$ Towards the complete  proof of Nakamura's conjecture$\sim$</title>
+    <authors count="2">
+      <author>takeshi fukuyama</author>
+      <author>kozo koizumi</author>
+    </authors>
+    <subjects count="3">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Exactly Solvable and Integrable Systems (nlin.SI)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1079" year="2010">
+    <title>CMB Bispectrum from Primordial Scalar, Vector and Tensor  non-Gaussianities</title>
+    <authors count="5">
+      <author>maresuke shiraishi</author>
+      <author>daisuke nitta</author>
+      <author>shuichiro yokoyama</author>
+      <author>kiyotomo ichiki</author>
+      <author>keitaro takahashi</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1140" year="2010">
+    <title>The Casimir spectrum revisited</title>
+    <authors count="3">
+      <author>carlos a. r. herdeiro</author>
+      <author>marco o. p. sampaio</author>
+      <author>jaime e. santos</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1210" year="2010">
+    <title>Induced gauge interactions revisited</title>
+    <authors count="2">
+      <author>boguslaw broda</author>
+      <author>michal szanecki</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1244" year="2010">
+    <title>Gravity on a multifractal</title>
+    <authors count="1">
+      <author>gianluca calcagni</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1548" year="2010">
+    <title>Entanglement entropy for odd spheres</title>
+    <authors count="1">
+      <author>j.s.dowker</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Spectral Theory (math.SP)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1568" year="2010">
+    <title>The path integral for the statistical sum of the microcanonical ensemble  in cosmology</title>
+    <authors count="1">
+      <author>a.o.barvinsky</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1571" year="2010">
+    <title>On the functional determinant of a special operator with a zero mode in  cosmology</title>
+    <authors count="2">
+      <author>a.o.barvinsky</author>
+      <author>a.yu.kamenshchik</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1602" year="2010">
+    <title>Sgr A*: The Optimal Testbed of Strong-Field Gravity</title>
+    <authors count="2">
+      <author>dimitrios psaltis</author>
+      <author>tim johannsen</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1622" year="2010">
+    <title>A violation of the spatial quantum inequality</title>
+    <authors count="1">
+      <author>dan solomon</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1656" year="2010">
+    <title>Are There Echoes From The Pre-Big Bang Universe? A Search for Low  Variance Circles in the CMB Sky</title>
+    <authors count="1">
+      <author>amir hajian</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1662" year="2010">
+    <title>Constraints on a $f(R)$ gravity dark energy model with early scaling  evolution</title>
+    <authors count="3">
+      <author>chan gyung park</author>
+      <author>jai chan hwang</author>
+      <author>hyerim noh</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1697" year="2010">
+    <title>Non-Gaussianities of Single Field Inflation with Non-minimal Coupling</title>
+    <authors count="2">
+      <author>taotao qiu</author>
+      <author>kwei chou yang</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1719" year="2010">
+    <title>On a Probabilistic Interpretation of Relativistic Quantum Mechanics</title>
+    <authors count="3">
+      <author>natalia gorobey</author>
+      <author>alexander lukyanenko</author>
+      <author>inna lukyanenko</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1752" year="2010">
+    <title>Uncertainty relation and probability: Numerical illustration</title>
+    <authors count="2">
+      <author>kazuo fujikawa</author>
+      <author>koichiro umetsu</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1798" year="2010">
+    <title>Generalization of the Bollobás-Riordan polynomial for tensor graphs</title>
+    <authors count="1">
+      <author>adrian tanasa</author>
+    </authors>
+    <subjects count="2">
+      <subject>Combinatorics (math.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1812" year="2010">
+    <title>Extracting Spacetimes using the AdS/CFT Conjecture: Part II</title>
+    <authors count="1">
+      <author>samuel bilson</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1834" year="2010">
+    <title>Lepton Flavour Violation and theta(13) in Minimal Resonant Leptogenesis</title>
+    <authors count="2">
+      <author>frank f. deppisch</author>
+      <author>apostolos pilaftsis</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1851" year="2010">
+    <title>Two-charge rotating black holes in four-dimensional gauged supergravity</title>
+    <authors count="1">
+      <author>david d. k. chow</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1853" year="2010">
+    <title>Dynamics and Gravitational Wave Signature of Collapsar Formation</title>
+    <authors count="10">
+      <author>c. d. ott</author>
+      <author>c. reisswig</author>
+      <author>e. schnetter</author>
+      <author>e. oconnor</author>
+      <author>u. sperhake</author>
+      <author>f. loeffler</author>
+      <author>p. diener</author>
+      <author>e. abdikamalov</author>
+      <author>i. hawke</author>
+      <author>a. burrows</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>Solar and Stellar Astrophysics (astro-ph.SR)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1896" year="2010">
+    <title>Statistical sum in the CFT driven cosmology</title>
+    <authors count="2">
+      <author>a.o.barvinsky</author>
+      <author>yu.v.gusev</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1963" year="2010">
+    <title>Explosive phenomena in modified gravity</title>
+    <authors count="2">
+      <author>e.v. arbuzova</author>
+      <author>a.d. dolgov</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2006" year="2010">
+    <title>Primordial Gravitational Waves from Inflation and Preheating</title>
+    <authors count="1">
+      <author>juan garcia bellido</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2100" year="2010">
+    <title>On electromagnetism and generalized energy-momentum tensor of the  electromagnetic field in spaces with Finsler geometry</title>
+    <authors count="1">
+      <author>nicoleta voicu</author>
+    </authors>
+    <subjects count="3">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Differential Geometry (math.DG)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2101" year="2010">
+    <title>The information paradox and the infall problem</title>
+    <authors count="1">
+      <author>samir d. mathur</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2107" year="2010">
+    <title>Infrared Sensitivity of Unstable Vacua</title>
+    <authors count="2">
+      <author>dmitry krotov</author>
+      <author>alexander m. polyakov</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2143" year="2010">
+    <title>Toroidal oscillations of slowly rotating relativistic star in  tensor-vector-scalar theory</title>
+    <authors count="1">
+      <author>hajime sotani</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2150" year="2010">
+    <title>Long gravitational-wave transients and associated detection strategies  for a network of terrestrial interferometers</title>
+    <authors count="13">
+      <author>eric thrane</author>
+      <author>shivaraj kandhasamy</author>
+      <author>christian d ott</author>
+      <author>warren g anderson</author>
+      <author>nelson l christensen</author>
+      <author>michael w coughlin</author>
+      <author>steven dorsher</author>
+      <author>stefanos giampanis</author>
+      <author>vuk mandic</author>
+      <author>antonis mytidis</author>
+      <author>tanner prestegard</author>
+      <author>peter raffai</author>
+      <author>bernard whiting</author>
+    </authors>
+    <subjects count="2">
+      <subject>Instrumentation and Methods for Astrophysics (astro-ph.IM)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2190" year="2010">
+    <title>Electromagnetic Fields of Slowly Rotating Compact Magnetized Stars in  Braneworld</title>
+    <authors count="2">
+      <author>viktoriya morozova</author>
+      <author>bobomurat ahmedov</author>
+    </authors>
+    <subjects count="2">
+      <subject>Solar and Stellar Astrophysics (astro-ph.SR)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2208" year="2010">
+    <title>Using Berry's phase to detect the Unruh effect at lower accelerations</title>
+    <authors count="3">
+      <author>e. martin martinez</author>
+      <author>i. fuentes</author>
+      <author>r. b. mann</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2267" year="2010">
+    <title>Photon Mass and Very Long Baseline Interferometry</title>
+    <authors count="3">
+      <author>a. accioly</author>
+      <author>j. helayel neto</author>
+      <author>e. scatena</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2272" year="2010">
+    <title>Excess Clustering on Large Scales in the MegaZ DR7 Photometric Redshift  Survey</title>
+    <authors count="3">
+      <author>shaun a. thomas</author>
+      <author>filipe b. abdalla</author>
+      <author>ofer lahav</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2280" year="2010">
+    <title>Non-singular exponential gravity: a simple theory for early- and  late-time accelerated expansion</title>
+    <authors count="5">
+      <author>e. elizalde</author>
+      <author>s. nojiri</author>
+      <author>s.d. odintsov</author>
+      <author>l. sebastiani</author>
+      <author>s. zerbini</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2349" year="2010">
+    <title>4D gravity on a BPS brane in 5D AdS-Minkowski space</title>
+    <authors count="3">
+      <author>r.c. fonseca</author>
+      <author>f.a. brito</author>
+      <author>l. losano</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2414" year="2010">
+    <title>Effective Action and Phase Transitions in Thermal Yang-Mills Theory on  Spheres</title>
+    <authors count="2">
+      <author>ivan g. avramidi</author>
+      <author>samuel collopy</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2426" year="2010">
+    <title>Tunneling of massive particles from noncommutative inspired  Schwarzschild black hole</title>
+    <authors count="3">
+      <author>yan gang miao</author>
+      <author>zhao xue</author>
+      <author>shao jun zhang</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2511" year="2010">
+    <title>Cold Dark Matter Isocurvature Perturbations: Cosmological Constraints  and Applications</title>
+    <authors count="4">
+      <author>hong li</author>
+      <author>jie liu</author>
+      <author>jun qing xia</author>
+      <author>yi fu cai</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2568" year="2010">
+    <title>Linear space of spinor monomials and realization of the Nambu-Goldstone  fermion in the Volkov-Akulov and Komargodski-Seiberg Lagrangians</title>
+    <authors count="1">
+      <author>a. a. zheltukhin</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2572" year="2010">
+    <title>Membrane Paradigm and Holographic Hydrodynamics</title>
+    <authors count="3">
+      <author>christopher eling</author>
+      <author>yasha neiman</author>
+      <author>yaron oz</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2597" year="2010">
+    <title>Physics as quantum information processing</title>
+    <authors count="1">
+      <author>giacomo mauro dariano</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2646" year="2010">
+    <title>Constraints on scalar-tensor theories of gravity from observations</title>
+    <authors count="1">
+      <author>seokcheon lee</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2652" year="2010">
+    <title>CMB spectra and bispectra calculations: making the flat-sky  approximation rigorous</title>
+    <authors count="3">
+      <author>francis bernardeau</author>
+      <author>cyril pitrou</author>
+      <author>jean philippe uzan</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2686" year="2010">
+    <title>Comment on: Hawking Radiation from Ultrashort Laser Pulse Filaments</title>
+    <authors count="2">
+      <author>ralf schutzhold</author>
+      <author>william g. unruh</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2717" year="2010">
+    <title>Upper bounds on the photon mass</title>
+    <authors count="3">
+      <author>antonio accioly</author>
+      <author>jose helayel neto</author>
+      <author>eslley scatena</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2734" year="2010">
+    <title>Adiabatic Spectra During Slowly Evolving</title>
+    <authors count="1">
+      <author>yun song piao</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2756" year="2010">
+    <title>Cosmic acceleration a new review</title>
+    <authors count="2">
+      <author>o.a. lemets</author>
+      <author>d.a. yerokhin</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2841" year="2010">
+    <title>Nambu-Goldstone explosion under brane perforation</title>
+    <authors count="3">
+      <author>d.v. galtsov</author>
+      <author>e.yu. melkumova</author>
+      <author>s. zamani mogaddam</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2888" year="2010">
+    <title>Black Hole Enthalpy and an Entropy Inequality for the Thermodynamic  Volume</title>
+    <authors count="4">
+      <author>m. cvetic</author>
+      <author>g.w. gibbons</author>
+      <author>d. kubiznak</author>
+      <author>c.n. pope</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2954" year="2010">
+    <title>Plasma graviton production in TeV-scale gravity</title>
+    <authors count="1">
+      <author>e.yu. melkumova</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2986" year="2010">
+    <title>A model of interacting holographic dark energy at the Ricci's scale</title>
+    <authors count="2">
+      <author>ivan duran</author>
+      <author>diego pavon</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3031" year="2010">
+    <title>Accelerated expansion of the Universe driven by G-essence</title>
+    <authors count="5">
+      <author>k. k. yerzhanov</author>
+      <author>p. yu. tsyba</author>
+      <author>sh. r. myrzakul</author>
+      <author>i. i. kulnazarov</author>
+      <author>r. myrzakulov</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3063" year="2010">
+    <title>Classical relativistic ideal gas in thermodynamic equilibrium in a  uniformly accelerated reference frame</title>
+    <authors count="1">
+      <author>domingo j. louis martinez</author>
+    </authors>
+    <subjects count="2">
+      <subject>Classical Physics (physics.class-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3074" year="2010">
+    <title>The Rich Structure of Gauss-Bonnet Holographic Superconductors</title>
+    <authors count="1">
+      <author>luke barclay</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3081" year="2010">
+    <title>The Universal RG Machine</title>
+    <authors count="4">
+      <author>dario benedetti</author>
+      <author>kai groh</author>
+      <author>pedro f. machado</author>
+      <author>frank saueressig</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3203" year="2010">
+    <title>Dark matter from dark energy-baryonic matter couplings</title>
+    <authors count="2">
+      <author>alejandro aviles</author>
+      <author>jorge l. cervantes cota</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3209" year="2010">
+    <title>Gribov ambiguity in asymptotically AdS three-dimensional gravity</title>
+    <authors count="4">
+      <author>andres anabalon</author>
+      <author>fabrizio canfora</author>
+      <author>alex giacomini</author>
+      <author>julio oliva</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3214" year="2010">
+    <title>Measuring the dark flow with public X-ray cluster data</title>
+    <authors count="3">
+      <author>a. kashlinsky</author>
+      <author>f. atrio barandela</author>
+      <author>h. ebeling</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3226" year="2010">
+    <title>Negative Power Spectra in Quantum Field Theory</title>
+    <authors count="3">
+      <author>jen tsung hsiang</author>
+      <author>chun hsien wu</author>
+      <author>l. h. ford</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3256" year="2010">
+    <title>Black hole phase transitions via Bragg-Williams</title>
+    <authors count="4">
+      <author>souvik banerjee</author>
+      <author>sayan k. chakrabarti</author>
+      <author>sudipta mukherji</author>
+      <author>binata panda</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3263" year="2010">
+    <title>Hamiltonian solutions of the 3-body problem in (2+1)-gravity</title>
+    <authors count="2">
+      <author>m. ciafaloni</author>
+      <author>s. munier</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3283" year="2010">
+    <title>Static interactions and stability of matter in Rindler space</title>
+    <authors count="3">
+      <author>f. lenz</author>
+      <author>k. ohta</author>
+      <author>k. yazaki</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3285" year="2010">
+    <title>Detection of cosmic superstrings by geodesic test particle motion</title>
+    <authors count="3">
+      <author>betti hartmann</author>
+      <author>claus lammerzahl</author>
+      <author>parinya sirimachan</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3374" year="2010">
+    <title>Relativistic Entanglement from Relativistic Quantum Mechanics in the  Rest-Frame Instant Form of Dynamics</title>
+    <authors count="1">
+      <author>luca lusanna</author>
+    </authors>
+    <subjects count="4">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3392" year="2010">
+    <title>A Note on Calm Excited States of Inflation</title>
+    <authors count="2">
+      <author>amjad ashoorioon</author>
+      <author>gary shiu</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3468" year="2010">
+    <title>Toward a Universal Formulation of the Halo Mass Function</title>
+    <authors count="2">
+      <author>p.s. corasaniti</author>
+      <author>i. achitouv</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3472" year="2010">
+    <title>Localization of particles in quantum field theory</title>
+    <authors count="1">
+      <author>w. westra</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3473" year="2010">
+    <title>A Causal Alternative to Feynman's Propagator</title>
+    <authors count="2">
+      <author>jurjen f. koksma</author>
+      <author>w. westra</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Quantum Physics (quant-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3520" year="2010">
+    <title>Riemannian $\mathbf{(1+d)}$-Dim Space-Time Manifolds with Nonstandard  Topology which Admit Dimensional Reduction to Any Lower Dimension and  Transformation of the Klein-Gordon Equation to the $\mathbf{1}$-Dim  Schrödinger Like Equation</title>
+    <authors count="1">
+      <author>plamen fiziev</author>
+    </authors>
+    <subjects count="3">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3594" year="2010">
+    <title>On the structure of the ergosurface of Pomeransky-Senkov black rings</title>
+    <authors count="1">
+      <author>julien cortier</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3701" year="2010">
+    <title>Decoherence in Quantum Mechanics</title>
+    <authors count="3">
+      <author>jurjen f. koksma</author>
+      <author>tomislav prokopec</author>
+      <author>michael g. schmidt</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3744" year="2010">
+    <title>Testing the Gaussianity and Statistical Isotropy of the Universe</title>
+    <authors count="3">
+      <author>dragan huterer</author>
+      <author>eiichiro komatsu</author>
+      <author>sarah shandera</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3904" year="2010">
+    <title>Testing the interaction between dark energy and dark matter via latest  observations</title>
+    <authors count="3">
+      <author>jian hua he</author>
+      <author>bin wang</author>
+      <author>elcio abdalla</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.3943" year="2010">
+    <title>Cosmological Consequences of Exponential Gravity in Palatini Formalism</title>
+    <authors count="4">
+      <author>m. campista</author>
+      <author>b. santos</author>
+      <author>j. santos</author>
+      <author>j.s. alcaniz</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4008" year="2010">
+    <title>On the role of shear in cosmological averaging II: large voids,  non-empty voids and a network of different voids</title>
+    <authors count="2">
+      <author>maria mattsson</author>
+      <author>teppo mattsson</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4055" year="2010">
+    <title>The Lamb shift in de Sitter spacetime</title>
+    <authors count="2">
+      <author>wenting zhou</author>
+      <author>hongwei yu</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4056" year="2010">
+    <title>A Universal Lower Bound on the Specific Temperatures of  AdS-Reissner-Nordstrom Black Holes with Flat Event Horizons</title>
+    <authors count="1">
+      <author>brett mcinnes</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4087" year="2010">
+    <title>A simple proof of orientability in colored group field theory</title>
+    <authors count="1">
+      <author>francesco caravelli</author>
+    </authors>
+    <subjects count="2">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4094" year="2010">
+    <title>Implications of a Stochastic Microscopic Finsler Cosmology</title>
+    <authors count="4">
+      <author>nick e. mavromatos</author>
+      <author>vasiliki a. mitsou</author>
+      <author>sarben sarkar</author>
+      <author>ariadne vergou</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4156" year="2010">
+    <title>Gravito-electromagnetism and decomposition of gravity</title>
+    <authors count="1">
+      <author>huiquan li</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4268" year="2010">
+    <title>Multipartite entanglement of fermionic systems in noninertial frames</title>
+    <authors count="2">
+      <author>jieci wang</author>
+      <author>jiliang jing</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4280" year="2010">
+    <title>Renormalization Group Flow of the Holst Action</title>
+    <authors count="2">
+      <author>j. e. daum</author>
+      <author>m.reuter</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4344" year="2010">
+    <title>Heat kernel expansion and induced action for the matrix model Dirac  operator</title>
+    <authors count="3">
+      <author>daniel n. blaschke</author>
+      <author>harold steinacker</author>
+      <author>michael wohlgenannt</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4353" year="2010">
+    <title>On the Interpretation of Gravitational Corrections to Gauge Couplings</title>
+    <authors count="2">
+      <author>john ellis</author>
+      <author>nick e. mavromatos</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4369" year="2010">
+    <title>Separate Universes Do Not Constrain Primordial Black Hole Formation</title>
+    <authors count="3">
+      <author>michael kopp</author>
+      <author>stefan hofmann</author>
+      <author>jochen weller</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4402" year="2010">
+    <title>Generalized cosmological term from Maxwell symmetries</title>
+    <authors count="3">
+      <author>jose a.de azcarraga</author>
+      <author>kiyoshi kamimura</author>
+      <author>jerzy lukierski</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4428" year="2010">
+    <title>Stochastic Inflation in Compact Extra Dimensions</title>
+    <authors count="1">
+      <author>larissa lorenz</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4459" year="2010">
+    <title>Unified models of the cosmological dark sector</title>
+    <authors count="3">
+      <author>w zimdahl</author>
+      <author>w s hipolito ricaldi</author>
+      <author>h e s velten</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4516" year="2010">
+    <title>Intrinsic brightness of SDSS objects is similar at all redshifts in de  Sitter space</title>
+    <authors count="2">
+      <author>john b. miller</author>
+      <author>thomas e. miller</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4517" year="2010">
+    <title>Higher-dimensional Rotating Charged Black Holes</title>
+    <authors count="3">
+      <author>marco m. caldarelli</author>
+      <author>roberto emparan</author>
+      <author>bert van pol</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4523" year="2010">
+    <title>Standard Model Higgs inflation: CMB, Higgs mass and quantum cosmology</title>
+    <authors count="1">
+      <author>andrei o. barvinsky</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4534" year="2010">
+    <title>An anisotropic standing wave braneworld and associated Sturm-Liouville  problem</title>
+    <authors count="3">
+      <author>merab gogberashvili</author>
+      <author>alfredo herrera aguilar</author>
+      <author>dagoberto malagon morejon</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4536" year="2010">
+    <title>Optical black holes and solitons</title>
+    <authors count="1">
+      <author>shawn westmoreland</author>
+    </authors>
+    <subjects count="3">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Optics (physics.optics)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4541" year="2010">
+    <title>Brane Holes</title>
+    <authors count="2">
+      <author>valeri p. frolov</author>
+      <author>shinji mukohyama</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4611" year="2010">
+    <title>Voros product, noncommutative inspired Reissner-Nordstr{ö}m black hole  and corrected area law</title>
+    <authors count="2">
+      <author>sunandan gangopadhyay</author>
+      <author>dibakar roychowdhury</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4617" year="2010">
+    <title>Contribution of the hybrid inflation waterfall to the primordial  curvature perturbation</title>
+    <authors count="1">
+      <author>david h. lyth</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4651" year="2010">
+    <title>Towards the M(atrix) model action in an arbitrary 11D supergravity  background. Progress report</title>
+    <authors count="1">
+      <author>igor a. bandos</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4669" year="2010">
+    <title>G-essence with Yukawa Interactions</title>
+    <authors count="6">
+      <author>i. kulnazarov</author>
+      <author>k. yerzhanov</author>
+      <author>o. razina</author>
+      <author>sh. myrzakul</author>
+      <author>p. tsyba</author>
+      <author>r. myrzakulov</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4805" year="2010">
+    <title>Perturbations of near-horizon geometries and instabilities of  Myers-Perry black holes</title>
+    <authors count="2">
+      <author>mark durkee</author>
+      <author>harvey s. reall</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4811" year="2010">
+    <title>A new approach to the vacuum of inflationary models</title>
+    <authors count="2">
+      <author>shih hung chen</author>
+      <author>james b. dent</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4848" year="2010">
+    <title>Cosmological constant in scale-invariant theories</title>
+    <authors count="3">
+      <author>robert foot</author>
+      <author>archil kobakhidze</author>
+      <author>raymond r. volkas</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4867" year="2010">
+    <title>Quantum Statistical Relation for black holes in nonlinear  electrodynamics coupled to Einstein-Gauss-Bonnet AdS gravity</title>
+    <authors count="2">
+      <author>olivera miskovic</author>
+      <author>rodrigo olea</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4906" year="2010">
+    <title>On the accelerated expansion of the cosmos</title>
+    <authors count="3">
+      <author>dominik j. schwarz</author>
+      <author>benedict kalus</author>
+      <author>marina seikel</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4947" year="2010">
+    <title>Some physical consequences of an exact vacua distribution in the  Bousso-Polchinski Landscape</title>
+    <authors count="2">
+      <author>cesar asensio</author>
+      <author>antonio segui</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4988" year="2010">
+    <title>Holographic dark energy at the Ricci scale</title>
+    <authors count="2">
+      <author>ivan duran</author>
+      <author>diego pavon</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5014" year="2010">
+    <title>Scaling configurations of cosmic superstring networks and their  cosmological implications</title>
+    <authors count="5">
+      <author>alkistis pourtsidou</author>
+      <author>anastasios avgoustidis</author>
+      <author>edmund j. copeland</author>
+      <author>levon pogosian</author>
+      <author>daniele a. steer</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5044" year="2010">
+    <title>Charged Balanced Black Rings in Five Dimensions</title>
+    <authors count="3">
+      <author>burkhard kleihaus</author>
+      <author>jutta kunz</author>
+      <author>kirsten schnulle</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5048" year="2010">
+    <title>Black-hole dynamics in BHT massive gravity</title>
+    <authors count="1">
+      <author>hideki maeda</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5049" year="2010">
+    <title>Nielsen-Olesen vortices for large Ginzburg-Landau parameter</title>
+    <authors count="2">
+      <author>jurgen burzlaff</author>
+      <author>francisco navarro lerida</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5062" year="2010">
+    <title>Reply to Comment on: Hawking radiation from ultrashort laser pulse  filaments</title>
+    <authors count="9">
+      <author>f. belgiorno</author>
+      <author>s.l. cacciatori</author>
+      <author>m. clerici</author>
+      <author>v. gorini</author>
+      <author>g. ortenzi</author>
+      <author>l. rizzi</author>
+      <author>e. rubino</author>
+      <author>v.g. sala</author>
+      <author>d. faccio</author>
+    </authors>
+    <subjects count="3">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Optics (physics.optics)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5081" year="2010">
+    <title>Blackfolds in (Anti)-de Sitter Backgrounds</title>
+    <authors count="2">
+      <author>jay armas</author>
+      <author>niels a. obers</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5109" year="2010">
+    <title>No local Maxwell duality invariance</title>
+    <authors count="1">
+      <author>s. deser</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5121" year="2010">
+    <title>Dark Energy density in Split SUSY models inspired by degenerate vacua</title>
+    <authors count="3">
+      <author>c. froggatt</author>
+      <author>r. nevzorov</author>
+      <author>h. b. nielsen</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5133" year="2010">
+    <title>Quantum Theory, Noncommutativity and Heuristics</title>
+    <authors count="1">
+      <author>earnest akofor</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5239" year="2010">
+    <title>On light propagation in Swiss-Cheese cosmologies</title>
+    <authors count="1">
+      <author>sebastian j. szybka</author>
+    </authors>
+    <subjects count="2">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5348" year="2010">
+    <title>CMB Polarization in Einstein-Aether Theory</title>
+    <authors count="2">
+      <author>masahiro nakashima</author>
+      <author>tsutomu kobayashi</author>
+    </authors>
+    <subjects count="3">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5411" year="2010">
+    <title>Circular motion of neutral test particles in Reissner-Nordström  spacetime</title>
+    <authors count="3">
+      <author>d. pugliese</author>
+      <author>h. quevedo</author>
+      <author>r. ruffini</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5435" year="2010">
+    <title>Weakly bound states of neutrons in gravitational fields</title>
+    <authors count="3">
+      <author>avas v. khugaev</author>
+      <author>renat a. sultanov</author>
+      <author>dennis guster</author>
+    </authors>
+    <subjects count="2">
+      <subject>Atomic Physics (physics.atom-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5451" year="2010">
+    <title>Observational tests of Galileon gravity with growth rate</title>
+    <authors count="2">
+      <author>koichi hirano</author>
+      <author>zen komiya</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5502" year="2010">
+    <title>Improved estimation of radiated axions from cosmological axionic strings</title>
+    <authors count="5">
+      <author>takashi hiramatsu</author>
+      <author>masahiro kawasaki</author>
+      <author>toyokazu sekiguchi</author>
+      <author>masahide yamaguchi</author>
+      <author>junichi yokoyama</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5523" year="2010">
+    <title>Non-Canonical Phase-Space Noncommutativity and the Kantowski-Sachs  singularity for Black Holes</title>
+    <authors count="4">
+      <author>catarina bastos</author>
+      <author>orfeu bertolami</author>
+      <author>nuno costa dias</author>
+      <author>joao nuno prata</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5603" year="2010">
+    <title>The gravitational analog of the Aharonov-Bohm electric effect</title>
+    <authors count="1">
+      <author>doron m. ludwin</author>
+    </authors>
+    <subjects count="2">
+      <subject>Quantum Physics (quant-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5610" year="2010">
+    <title>One-loop stress tensors for scalar and spinor fields on the homogeneous  spaces with G-invariant metrics</title>
+    <authors count="1">
+      <author>a. i. breev</author>
+    </authors>
+    <subjects count="2">
+      <subject>Mathematical Physics (math-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5690" year="2010">
+    <title>Einstein-Cartan gravity with scalar-fermion interactions</title>
+    <authors count="5">
+      <author>olga razina</author>
+      <author>yerlan myrzakulov</author>
+      <author>nurzhan serikbayev</author>
+      <author>gulgasyl nugmanova</author>
+      <author>ratbay myrzakulov</author>
+    </authors>
+    <subjects count="4">
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5709" year="2010">
+    <title>Hawking temperature for constant curvature black bole and its analogue  in de Sitter space</title>
+    <authors count="2">
+      <author>rong gen cai</author>
+      <author>yun soo myung</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5725" year="2010">
+    <title>Chaos in Geodesic Motion around a Black Ring</title>
+    <authors count="3">
+      <author>takahisa igata</author>
+      <author>hideki ishihara</author>
+      <author>yohsuke takamori</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5737" year="2010">
+    <title>Properties of scalar perturbations generated by conformal scalar field</title>
+    <authors count="3">
+      <author>m. libanov</author>
+      <author>s. mironov</author>
+      <author>v. rubakov</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5742" year="2010">
+    <title>Constraints on warped compactifications</title>
+    <authors count="2">
+      <author>masato minamitsuji</author>
+      <author>kunihito uzawa</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5869" year="2010">
+    <title>The effects of nonlinear Maxwell source on the magnetic solutions in  Einstein-Gauss-Bonnet gravity</title>
+    <authors count="3">
+      <author>s. h. hendi</author>
+      <author>s. kordestani</author>
+      <author>s. n. d. motlagh</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5914" year="2010">
+    <title>Machian Origin of the Entropic Gravity and Cosmic Acceleration</title>
+    <authors count="2">
+      <author>merab gogberashvili</author>
+      <author>igor kanatchikov</author>
+    </authors>
+    <subjects count="3">
+      <subject>General Physics (physics.gen-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5966" year="2010">
+    <title>The everpresent eta-problem: knowledge of all hidden sectors required</title>
+    <authors count="5">
+      <author>sjoerd hardeman</author>
+      <author>johannes m. oberreuter</author>
+      <author>gonzalo a. palma</author>
+      <author>koenraad schalm</author>
+      <author>ted van der aalst</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5996" year="2010">
+    <title>Holographic description of vacuum bubbles</title>
+    <authors count="1">
+      <author>jaume garriga</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.6036" year="2010">
+    <title>Quantum-Mechanical Waves in Closed Vacuum States</title>
+    <authors count="1">
+      <author>paul s. wesson</author>
+    </authors>
+    <subjects count="2">
+      <subject>General Physics (physics.gen-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.6040" year="2010">
+    <title>The Black Hole Membrane Paradigm in f(R) Gravity</title>
+    <authors count="3">
+      <author>saugata chatterjee</author>
+      <author>maulik parikh</author>
+      <author>sudipta sarkar</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5093" year="2010">
+    <title>Unitary theories in the work of Mira Fernandes (beyond general  relativity and differential geometry)</title>
+    <authors count="1">
+      <author>jose p. s. lemos</author>
+    </authors>
+    <subjects count="3">
+      <subject>History and Philosophy of Physics (physics.hist-ph)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.5661" year="2010">
+    <title>Boosting jet power in black hole spacetimes</title>
+    <authors count="7">
+      <author>david neilsen</author>
+      <author>luis lehner</author>
+      <author>carlos palenzuela</author>
+      <author>eric w. hirschmann</author>
+      <author>steven l. liebling</author>
+      <author>patrick m. motl</author>
+      <author>t. garrett</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>Cosmology and Extragalactic Astrophysics (astro-ph.CO)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.2893" year="2010">
+    <title>Black Hole Portal into Hidden Valleys</title>
+    <authors count="2">
+      <author>sergei dubovsky</author>
+      <author>victor gorbenko</author>
+    </authors>
+    <subjects count="4">
+      <subject>High Energy Physics - Phenomenology (hep-ph)</subject>
+      <subject>High Energy Astrophysical Phenomena (astro-ph.HE)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1494" year="2010">
+    <title>Heating up the BIon</title>
+    <authors count="5">
+      <author>gianluca grignani</author>
+      <author>troels harmark</author>
+      <author>andrea marini</author>
+      <author>niels a. obers</author>
+      <author>marta orselli</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.4747" year="2010">
+    <title>Perturbations of Gauss-Bonnet Black Strings in Codimension-2 Braneworlds</title>
+    <authors count="4">
+      <author>bertha cuadros melgar</author>
+      <author>eleftherios papantonopoulos</author>
+      <author>minas tsoukalas</author>
+      <author>vassilios zamarias</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1326" year="2010">
+    <title>Cosmological Einstein-Maxwell Instantons and Euclidean Supersymmetry:  Beyond Self-Duality</title>
+    <authors count="4">
+      <author>m. dunajski</author>
+      <author>j. b. gutowski</author>
+      <author>w. a. sabra</author>
+      <author>paul tod</author>
+    </authors>
+    <subjects count="2">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+    </subjects>
+  </paper>
+  <paper month="12" url="http://arxiv.org//abs/1012.1903" year="2010">
+    <title>Parent formulation at the Lagrangian level</title>
+    <authors count="1">
+      <author>maxim grigoriev</author>
+    </authors>
+    <subjects count="3">
+      <subject>High Energy Physics - Theory (hep-th)</subject>
+      <subject>General Relativity and Quantum Cosmology (gr-qc)</subject>
+      <subject>Mathematical Physics (math-ph)</subject>
+    </subjects>
+  </paper>
+</papers>
